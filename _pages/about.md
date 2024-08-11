@@ -6,7 +6,7 @@ subtitle: h.halima.bouzidi@gmail.com
 
 profile:
   align: right
-  image: profile_pic2.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
 # <p>According to convnextv2, I am</p>
