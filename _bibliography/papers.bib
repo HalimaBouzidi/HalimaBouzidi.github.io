@@ -177,6 +177,23 @@ preview = {magnas_cases.png}
   preview = {snatch.png}
 }
 
+@inproceedings{jenn:hal-04584735,
+  TITLE = {{An Evaluation Bench for the Exploration of Machine Learning Deployment Solutions on Embedded Platforms}},
+  AUTHOR = {Jenn, Eric and Thiant, Floris and Allouche, Theo and Bouzidi, Halima and Conejo-Laguna, Ramon and Hlimi, Omar and Louis-Stanislas, Cyril and Marabotto, Christophe and Niar, Smail and Tembo Mouafo, Serge Romaric and Thierion, Philippe},
+  abtract={Finding the most efficient deployment of a Machine Learning (ML) model requires setting up multiple combinations of ML tools and hardware targets, running series of experiments, and evaluating relevant parameters (latency, memory usage, etc.). All these operations are complex, sometimes tedious, and always time consuming. Therefore, in order to facilitate this Design Space Exploration process, we propose an evaluation bench that (i) integrates the necessary software and hardware resources (tools, boards) to deploy a variety of ML models, and (ii) provides a uniform and abstract API to exercise and evaluate multiple deployment solutions. This paper defines more precisely the end-users needs, describes the architecture of the bench and illustrates its application on a use case.},
+  URL = {https://hal.science/hal-04584735},
+  BOOKTITLE = {{12th European Congress Embedded Real Time Systems - ERTS 2024}},
+  ADDRESS = {Toulouse (31000), France},
+  HAL_LOCAL_REFERENCE = {Confiance.ai},
+  HAL_LOCAL_REFERENCE = {EC7},
+  YEAR = {2024},
+  MONTH = Jun,
+  KEYWORDS = {Machine Learning ; Edge computing ; Deployment},
+  HAL_ID = {hal-04584735},
+  HAL_VERSION = {v1},
+  preview={bench_erts.png}
+}
+
 @phdthesis{bouzidi:tel-04574676,
   TITLE = {{Efficient Deployment of Deep Neural Networks on Hardware Devices for Edge AI}},
   AUTHOR = {Bouzidi, Halima},
@@ -186,6 +203,7 @@ preview = {magnas_cases.png}
   SCHOOL = {{Universit{\'e} Polytechnique Hauts-de-France}},
   YEAR = {2024},
   MONTH = Jan,
+  journal={PhD Thesis},
   KEYWORDS = {Edge AI ; HW-Aware NAS ; Dvfs ; Dynamic Inference ; HW/SW Co-Optimization ; Performance Prediction ; Edge AI ; HW-Aware NAS ; Dvfs ; Inf{\'e}rence Dynamique ; Co-Optimisation HW/SW ; Pr{\'e}diction de Performance},
   TYPE = {Theses},
   PDF = {https://theses.hal.science/tel-04574676/file/BOUZIDI_Halima2.pdf},
@@ -224,21 +242,4 @@ preview = {magnas_cases.png}
   url = 	 {https://proceedings.mlr.press/v222/ghebriout24a.html},
   abstract = 	 {The recent surge of interest surrounding Multimodal Neural Networks (MM-NN) is attributed to their ability to effectively process and integrate multiscale information from diverse data sources. MM-NNs extract and fuse features from multiple modalities using adequate unimodal backbones and specific fusion networks. Although this helps strengthen the multimodal information representation, designing such networks is labor-intensive. It requires tuning the architectural parameters of the unimodal backbones, choosing the fusing point, and selecting the operations for fusion. Furthermore, multimodality AI is emerging as a cutting-edge option in Internet of Things (IoT) systems where inference latency and energy consumption are critical metrics in addition to accuracy. In this paper, we propose Harmonic-NAS, a framework for the joint optimization of unimodal backbones and multimodal fusion networks with hardware awareness on resource-constrained devices. Harmonic-NAS involves a two-tier optimization approach for the unimodal backbone architectures and fusion strategy and operators. By incorporating the hardware dimension into the optimization, evaluation results on various devices and multimodal datasets have demonstrated the superiority of Harmonic-NAS over state-of-the-art approaches achieving up to 10.9% accuracy improvement, 1.91x latency reduction, and 2.14x energy efficiency gain.},
   preview = {harmonic_acml.png}
-}
-
-@inproceedings{jenn:hal-04584735,
-  TITLE = {{An Evaluation Bench for the Exploration of Machine Learning Deployment Solutions on Embedded Platforms}},
-  AUTHOR = {Jenn, Eric and Thiant, Floris and Allouche, Theo and Bouzidi, Halima and Conejo-Laguna, Ramon and Hlimi, Omar and Louis-Stanislas, Cyril and Marabotto, Christophe and Niar, Smail and Tembo Mouafo, Serge Romaric and Thierion, Philippe},
-  abtract={Finding the most efficient deployment of a Machine Learning (ML) model requires setting up multiple combinations of ML tools and hardware targets, running series of experiments, and evaluating relevant parameters (latency, memory usage, etc.). All these operations are complex, sometimes tedious, and always time consuming. Therefore, in order to facilitate this Design Space Exploration process, we propose an evaluation bench that (i) integrates the necessary software and hardware resources (tools, boards) to deploy a variety of ML models, and (ii) provides a uniform and abstract API to exercise and evaluate multiple deployment solutions. This paper defines more precisely the end-users needs, describes the architecture of the bench and illustrates its application on a use case.},
-  URL = {https://hal.science/hal-04584735},
-  BOOKTITLE = {{12th European Congress Embedded Real Time Systems - ERTS 2024}},
-  ADDRESS = {Toulouse (31000), France},
-  HAL_LOCAL_REFERENCE = {Confiance.ai},
-  HAL_LOCAL_REFERENCE = {EC7},
-  YEAR = {2024},
-  MONTH = Jun,
-  KEYWORDS = {Machine Learning ; Edge computing ; Deployment},
-  HAL_ID = {hal-04584735},
-  HAL_VERSION = {v1},
-  preview={bench_erts.png}
 }
