@@ -2,24 +2,37 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: h.halima.bouzidi@gmail.com
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic2.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: >
+# <p>According to convnextv2, I am</p>
+# <p>"cardigan": 75.6%</p>
+# <p>"jean": 2.0%</p>
+# <p>"sunglasses": 1.0%</p>
+# <p>How I see myself</p>
+# <p>"giant panda": 100,000%</p>
+# <p>(he/him)</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
+latest_posts: false  # includes a list of the newest posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+[CV](/assets/pdf/Halima_Bouzidi_CV.pdf) &nbsp;&nbsp;&nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?user=sI0ity4AAAAJ&hl=en)
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<!-- **Some text, maybe for later** -->
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Hi! My name is Halima Bouzidi ^^
+
+I am a postdoctoral researcher in the [Embedded & Cyber-Physical Systems (AICPS) Lab](https://aicps.eng.uci.edu/) at the [University of California, Irvine (UCI)](https://uci.edu/), where I am fortunate to be advised by [Prof. Mohammad Abdullah Al Faruque](https://aicps.eng.uci.edu/people-2/).
+
+My research stands at the intersection of Multi-objective optimization, Machine Learning (ML), Hardware architectures, Security, and Privacy with an emphasis on resource-constrained intelligent systems. To enhance the performance, efficiency, and reliability of intelligent applications and devices, I develop methods that seamlessly integrate ML, optimization, security, and privacy analysis across both software and hardware levels.
+
+I obtained my PhD degree in Computer Engineering in January 2024 from the [Polytechnic University of Hauts-de-France (UPHF)](https://www.uphf.fr/en) where I was a member of the [the LAMIH lab](https://www.uphf.fr/lamih). I was fortunate to be advised by [Prof. Smail NIAR](https://www.uphf.fr/lamih/membres/niar_smail), [Prof. El-Ghazali Talbi](https://www.cristal.univ-lille.fr/~talbi/indexf043.html?n=Main.Biography), and [Dr. Hamza Ouarnoughi](https://www.uphf.fr/lamih/membres/ouarnoughi_hamza).
+
+Prior to my PhD program, in September 2020, I graduated with honors from the [Higher school of Computer Science (ESI ex INI)](https://www.esi.dz/en/home/) in Algiers, Algeria, where I received both my Master’s and Engineering degrees. I was mentored and introduced to embedded systems by [Prof. Mouloud Koudil](https://www.linkedin.com/in/mouloud-koudil-3a07ab24/?originalSubdomain=dz) and [Dr. Nassima Kadri](https://www.linkedin.com/in/kadri-nassima-909588131/).

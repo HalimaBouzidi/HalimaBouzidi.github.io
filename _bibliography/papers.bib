@@ -1,114 +1,174 @@
 ---
 ---
 
-@string{aps = {American Physical Society,}}
-
-@book{einstein1920relativity,
-  title={Relativity: the Special and General Theory},
-  author={Einstein, Albert},
-  year={1920},
-  publisher={Methuen & Co Ltd},
-  html={relativity.html}
+@inproceedings{perf_pred_cf_2021,
+author = {Bouzidi, Halima and Ouarnoughi, Hamza and Niar, Smail and Cadi, Abdessamad Ait El},
+title = {Performance prediction for convolutional neural networks on edge GPUs},
+year = {2021},
+isbn = {9781450384049},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3457388.3458666},
+doi = {10.1145/3457388.3458666},
+abstract = {Edge computing is increasingly used for Artificial Intelligence (AI) purposes to meet latency, privacy, and energy challenges. Convolutional Neural networks (CNN) are more frequently deployed on Edge devices for several applications. However, due to their constrained computing resources and energy budget, Edge devices struggle to meet CNN's latency requirements while maintaining good accuracy. It is, therefore, crucial to choose the CNN with the best accuracy and latency trade-off while respecting hardware constraints. This paper presents and compares five of the widely used Machine Learning (ML) based approaches to predict CNN's inference execution time on Edge GPUs. For these 5 methods, in addition to their prediction accuracy, we also explore the time needed for their training and their hyperparameters' tuning. Finally, we compare times to run the prediction models on different platforms. The use of these methods will highly facilitate design space exploration by quickly providing the best CNN on a target Edge GPU. Experimental results show that XGBoost provides an interesting average prediction error even for unexplored and unseen CNN architectures. Random Forest depicts comparable accuracy but needs more effort and time to be trained. The other 3 approaches (OLS, MLP, and SVR) are less accurate for CNN performance estimation.},
+booktitle = {Proceedings of the 18th ACM International Conference on Computing Frontiers},
+pages = {54–62},
+numpages = {9},
+keywords = {CNN, XGBoost, edge GPU, multi-layer perceptrons, multiple linear regression, performance modeling, random forest, support vector machine},
+location = {Virtual Event, Italy},
+series = {CF '21}
 }
 
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
+
+@inproceedings{evo_dvfs_meta_2021,
+  TITLE = {{Evolutionary-based Optimization of Hardware Configurations for DNN on Edge GPUs}},
+  AUTHOR = {Bouzidi, Halima and Ouarnoughi, Hamza and Talbi, El-Ghazali and Ait El Cadi, Abdessamad and Niar, Smail},
+  URL = {https://hal.science/hal-04222016},
+  BOOKTITLE = {{META'21, The 8th International Conference on Metaheuristics and Nature Inspired Computing}},
+  ADDRESS = {Marrakech, Morocco},
+  YEAR = {2021},
+  MONTH = Oct,
+  KEYWORDS = {Deep Neural Network ; Edge Computing ; Hardware Configurations ; Multi-objective Optimization},
+  PDF = {https://hal.science/hal-04222016/file/META_21.pdf},
+  HAL_ID = {hal-04222016},
+  HAL_VERSION = {v1},
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
+
+@InProceedings{evo_nas_dvfs_ola_2022,
+author="Bouzidi, Halima
+and Ouarnoughi, Hamza
+and Talbi, El-Ghazali
+and El Cadi, Abdessamad Ait
+and Niar, Smail",
+editor="Dorronsoro, Bernab{\'e}
+and Pavone, Mario
+and Nakib, Amir
+and Talbi, El-Ghazali",
+title="Evolutionary-Based Co-optimization of DNN and Hardware Configurations on Edge GPU",
+booktitle="Optimization and Learning",
+year="2022",
+publisher="Springer International Publishing",
+address="Cham",
+pages="3--12",
+abstract="The ever-increasing complexity of both Deep Neural Networks (DNN) and hardware accelerators has made the co-optimization of these domains extremely complex. Previous works typically focus on optimizing DNNs given a fixed hardware configuration or optimizing a specific hardware architecture given a fixed DNN model. Recently, the importance of the joint exploration of the two spaces draw more and more attention. Our work targets the co-optimization of DNN and hardware configurations on edge GPU accelerator. We investigate the importance of the joint exploration of DNN and edge GPU configurations. We propose an evolutionary-based co-optimization strategy for DNN by considering three metrics: DNN accuracy, execution latency, and power consumption. By combining the two search spaces, we have observed that we can explore more solutions and obtain a better tradeoff between DNN accuracy and hardware efficiency. Experimental results show that the co-optimization outperforms the optimization of DNN for fixed hardware configuration with up to 53{\%} hardware efficiency gains for the same accuracy and latency.",
+isbn="978-3-031-22039-5"
 }
 
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein*†, A. and Podolsky*, B. and Rosen*, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  location={New Jersey},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  google_scholar_id={qyhmnyLat1gC},
-  video={https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ},
-  additional_info={. *More Information* can be [found here](https://github.com/alshedivat/al-folio/)},
-  annotation={* Example use of superscripts<br>† Albert Einstein},
-  selected={true}
+
+@INPROCEEDINGS{dvfs_nas_dsd_2022,
+  author={Bouzidi, Halima and Ouarnoughi, Hamza and Niar, Smail and Talbi, El-Ghazali and El Cadi, Abdessamad Ait},
+  booktitle={2022 25th Euromicro Conference on Digital System Design (DSD)}, 
+  title={Co-Optimization of DNN and Hardware Configurations on Edge GPUs}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={398-405},
+  keywords={Measurement;Power demand;Neural networks;Graphics processing units;Evolutionary computation;Linear programming;Hardware;DNN;Edge GPU;Hardware-aware Neural Architecture Search;Multi-objective optimization},
+  doi={10.1109/DSD57027.2022.00060}}
+
+
+@article{perf_pred_tecs_2022,
+author = {Bouzidi, Halima and Ouarnoughi, Hamza and Niar, Smail and Cadi, Abdessamad Ait El},
+title = {Performance Modeling of Computer Vision-based CNN on Edge GPUs},
+year = {2022},
+issue_date = {September 2022},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {21},
+number = {5},
+issn = {1539-9087},
+url = {https://doi.org/10.1145/3527169},
+doi = {10.1145/3527169},
+abstract = {Convolutional Neural Networks (CNNs) are currently widely used in various fields, particularly for computer vision applications. Edge platforms have drawn tremendous attention from academia and industry due to their ability to improve execution time and preserve privacy. However, edge platforms struggle to satisfy CNNs’ needs due to their computation and energy constraints. Thus, it is challenging to find the most efficient CNN that respects accuracy, time, energy, and memory footprint constraints for a target edge platform. Furthermore, given the size of the design space of CNNs and hardware platforms, performance evaluation of CNNs entails several efforts. Consequently, designers need tools to quickly explore large design space and select the CNN that offers the best performance trade-off for a set of hardware platforms. This article proposes a Machine Learning (ML)–based modeling approach for CNN performances on edge GPU-based platforms for vision applications. We implement and compare five of the most successful ML algorithms for accurate and rapid CNN performance predictions on three different edge GPUs in image classification. Experimental results demonstrate the robustness and usefulness of our proposed methodology. For three of the five ML algorithms — XGBoost, Random Forest, and Ridge Polynomial regression — average errors of 11\%, 6\%, and 8\% have been obtained for CNN inference execution time, power consumption, and memory usage, respectively.},
+journal = {ACM Trans. Embed. Comput. Syst.},
+month = {oct},
+articleno = {64},
+numpages = {33},
+keywords = {regression analysis, machine learning, memory usage, power consumption, execution time, edge GPU, CNN, Performance modeling}
 }
 
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
+
+@INPROCEEDINGS{hadas_date_2023,
+  author={Bouzidi, Halima and Odema, Mohanad and Ouarnoughi, Hamza and Al Faruque, Mohammad Abdullah and Niar, Smail},
+  booktitle={2023 Design, Automation & Test in Europe Conference & Exhibition (DATE)}, 
+  title={HADAS: Hardware-Aware Dynamic Neural Architecture Search for Edge Performance Scaling}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Electric potential;Computational modeling;Neural networks;Computer architecture;Voltage;Dynamic scheduling;Energy efficiency;dynamic neural networks;DVFS;neural architecture search;early exit;edge computing;joint optimization},
+  doi={10.23919/DATE56975.2023.10137095}}
+
+
+@INPROCEEDINGS{mapconquer_dac_2023,
+  author={Bouzidi, Halima and Odema, Mohanad and Ouarnoughi, Hamza and Niar, Smail and Al Faruque, Mohammad Abdullah},
+  booktitle={2023 60th ACM/IEEE Design Automation Conference (DAC)}, 
+  title={Map-and-Conquer: Energy-Efficient Mapping of Dynamic Neural Nets onto Heterogeneous MPSoCs}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Concurrent computing;Design automation;Computational modeling;Artificial neural networks;Performance gain;Parallel processing;Hardware;dynamic neural networks;heterogeneous MPSoCs;computation mapping;hardware scaling;DVFS},
+  doi={10.1109/DAC56929.2023.10247722}}
+
+
+@article{magnas_cases_2023,
+author = {Odema, Mohanad and Bouzidi, Halima and Ouarnoughi, Hamza and Niar, Smail and Al Faruque, Mohammad Abdullah},
+title = {MaGNAS: A Mapping-Aware Graph Neural Architecture Search Framework for Heterogeneous MPSoC Deployment},
+year = {2023},
+issue_date = {October 2023},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {22},
+number = {5s},
+issn = {1539-9087},
+url = {https://doi.org/10.1145/3609386},
+doi = {10.1145/3609386},
+abstract = {Graph Neural Networks (GNNs) are becoming increasingly popular for vision-based applications due to their intrinsic capacity in modeling structural and contextual relations between various parts of an image frame. On another front, the rising popularity of deep vision-based applications at the edge has been facilitated by the recent advancements in heterogeneous multi-processor Systems on Chips (MPSoCs) that enable inference under real-time, stringent execution requirements. By extension, GNNs employed for vision-based applications must adhere to the same execution requirements. Yet contrary to typical deep neural networks, the irregular flow of graph learning operations poses a challenge to running GNNs on such heterogeneous MPSoC platforms. In this paper, we propose a novel unified design-mapping approach for efficient processing of vision GNN workloads on heterogeneous MPSoC platforms. Particularly, we develop MaGNAS, a mapping-aware Graph Neural Architecture Search framework. MaGNAS proposes a GNN architectural design space coupled with prospective mapping options on a heterogeneous SoC to identify model architectures that maximize on-device resource efficiency. To achieve this, MaGNAS employs a two-tier evolutionary search to identify optimal GNNs and mapping pairings that yield the best performance trade-offs. Through designing a supernet derived from the recent Vision GNN (ViG) architecture, we conducted experiments on four (04) state-of-the-art vision datasets using both (i) a real hardware SoC platform (NVIDIA Xavier AGX) and (ii) a performance/cost model simulator for DNN accelerators. Our experimental results demonstrate that MaGNAS is able to provide 1.57\texttimes{} latency speedup and is 3.38\texttimes{} more energy-efficient for several vision datasets executed on the Xavier MPSoC vs. the GPU-only deployment while sustaining an average 0.11\% accuracy reduction from the baseline.},
+journal = {ACM Trans. Embed. Comput. Syst.},
+month = {sep},
+articleno = {108},
+numpages = {26},
+keywords = {edge computing, HW-SW codesign, MPSoCs, Graph neural networks}
 }
 
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
+
+@article{sonata_preprint_2024,
+  title={SONATA: Self-adaptive Evolutionary Framework for Hardware-aware Neural Architecture Search},
+  author={Halima Bouzidi and Sma{\"i}l Niar and Hamza Ouarnoughi and El-Ghazali Talbi},
+  journal={ArXiv},
+  year={2024},
+  volume={abs/2402.13204},
+  url={https://api.semanticscholar.org/CorpusID:267759968}
 }
 
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
+
+
+@InProceedings{harmonicnas_acml_2024,
+  title = 	 {{Harmonic-NAS}: {H}ardware-Aware Multimodal Neural Architecture Search on Resource-constrained Devices},
+  author =       {Ghebriout, Mohamed Imed Eddine and Bouzidi, Halima and Niar, Smail and Ouarnoughi, Hamza},
+  booktitle = 	 {Proceedings of the 15th Asian Conference on Machine Learning},
+  pages = 	 {374--389},
+  year = 	 {2024},
+  editor = 	 {Yanıkoğlu, Berrin and Buntine, Wray},
+  volume = 	 {222},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {11--14 Nov},
+  publisher =    {PMLR},
+  pdf = 	 {https://proceedings.mlr.press/v222/ghebriout24a/ghebriout24a.pdf},
+  url = 	 {https://proceedings.mlr.press/v222/ghebriout24a.html},
+  abstract = 	 {The recent surge of interest surrounding Multimodal Neural Networks (MM-NN) is attributed to their ability to effectively process and integrate multiscale information from diverse data sources. MM-NNs extract and fuse features from multiple modalities using adequate unimodal backbones and specific fusion networks. Although this helps strengthen the multimodal information representation, designing such networks is labor-intensive. It requires tuning the architectural parameters of the unimodal backbones, choosing the fusing point, and selecting the operations for fusion. Furthermore, multimodality AI is emerging as a cutting-edge option in Internet of Things (IoT) systems where inference latency and energy consumption are critical metrics in addition to accuracy. In this paper, we propose \textit{Harmonic-NAS}, a framework for the joint optimization of unimodal backbones and multimodal fusion networks with hardware awareness on resource-constrained devices. \textit{Harmonic-NAS} involves a two-tier optimization approach for the unimodal backbone architectures and fusion strategy and operators. By incorporating the hardware dimension into the optimization, evaluation results on various devices and multimodal datasets have demonstrated the superiority of \textit{Harmonic-NAS} over state-of-the-art approaches achieving up to $\sim \textbf{10.9%} accuracy improvement, $\sim$\textbf{1.91x} latency reduction, and $\sim$\textbf{2.14x} energy efficiency gain.}
 }
 
-@Article{einstein1905photoelectriceffect,
-  bibtex_show={true},
-  abbr={Ann. Phys.},
-  title="{{\"U}ber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt}",
-  author={Albert Einstein},
-  abstract={This is the abstract text.},
-  journal={Ann. Phys.},
-  volume={322},
-  number={6},
-  pages={132--148},
-  year={1905},
-  doi={10.1002/andp.19053220607},
-  award={Albert Einstein receveid the **Nobel Prize in Physics** 1921 *for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect*},
-  award_name={Nobel Prize}
+
+@article{hijacking_preprint_2024,
+  title={Model for Peanuts: Hijacking ML Models without Training Access is Possible},
+  author={Mahmoud Ghorbel and Halima Bouzidi and Ioan Marius Bilasco and Ihsen Alouani},
+  journal={ArXiv},
+  year={2024},
+  volume={abs/2406.01708},
+  url={https://api.semanticscholar.org/CorpusID:270226742}
 }
 
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif},
-  abbr={Vision}
-}
+
