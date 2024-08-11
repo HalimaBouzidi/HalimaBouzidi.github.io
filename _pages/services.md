@@ -19,12 +19,14 @@ During my PhD, I served as a graduate Teaching Assistant (TA) for the following 
 
 I am extremely fortunate to have mentored and worked with brilliant students. Please feel free to reach out if you are interested in collaborating!
 
-#### Master's Students
+#### Undegrad, Master, and Graduate Students
 
 - [Mohamed Imed Eddine Ghebriout](https://dz.linkedin.com/in/mohamed-imed-eddine-ghebriout-a4b9601b1)
 - [Farouk Abdallah](https://www.linkedin.com/in/farouk-abdallah/)
+- [Taha Yassine Abidi](https://www.linkedin.com/in/tahayacinabidi/)
 - [Selsabil Rouibi](https://www.linkedin.com/in/selsabil-rouibi/)
 - [Kaouthar Essaheli](https://www.linkedin.com/in/kaouthar-essaheli-78667921a/)
+
 
 ---
 
