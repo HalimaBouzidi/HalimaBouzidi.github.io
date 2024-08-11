@@ -230,6 +230,11 @@
       {% if entry.code %}
         <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
       {% endif %}
+      {% if entry.award %}
+      <a href="#" class="btn btn-sm z-depth-0" style="border: 1px solid red; color: red; pointer-events: none; text-decoration: none;" role="button">
+        {{ entry.award }}
+      </a>
+      {% endif %}
       {% if entry.poster %}
         {% if entry.poster contains '://' %}
           <a href="{{ entry.poster }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
