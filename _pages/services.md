@@ -1,23 +1,25 @@
 ---
 layout: page
 permalink: /service/
-title: services
+title: Services
 nav: true
 nav_order: 5
 ---
 
-### teaching
+### Academic Teaching
 
-During my PhD, I served as a Graduate Teaching Assistant (TA) for the following courses:
+During my PhD, I served as a graduate Teaching Assistant (TA) for the following courses:
 
 - **Introduction to Computer Architectures and Operating Systems** (INSA Hauts-de-France): Fall 2021, 2022, 2023
 - **Introduction to Algorithm and Programming** (INSA Hauts-de-France): Fall 2022
 
-### student mentees/collaborators
+---
+
+### Student mentees/collaborators
 
 I am extremely fortunate to have mentored and worked with brilliant students. Please feel free to reach out if you are interested in collaborating!
 
-#### Master's students
+#### Master's Students
 
 - [Mohamed Imed Eddine Ghebriout](https://dz.linkedin.com/in/mohamed-imed-eddine-ghebriout-a4b9601b1)
 - [Farouk Abdallah](https://www.linkedin.com/in/farouk-abdallah/)
