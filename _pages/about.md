@@ -23,13 +23,13 @@ social: false  # includes social icons at the bottom of the page
 latest_posts: false  # includes a list of the newest posts
 ---
 
-[CV](/assets/pdf/Halima_Bouzidi_CV.pdf) &nbsp;&nbsp;&nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?user=sI0ity4AAAAJ&hl=en)
+[CV](/assets/pdf/Halima_Bouzidi_CV.pdf) &nbsp;&nbsp;&nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?user=sI0ity4AAAAJ&hl=en) &nbsp;&nbsp;&nbsp;&nbsp; [X](https://twitter.com/HalimaBouzidi1) &nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/halimabouzidi/)
 
 <!-- **Some text, maybe for later** -->
 
 Hi! My name is Halima Bouzidi ^^
 
-I am a postdoctoral scholar in the [Embedded & Cyber-Physical Systems (AICPS) Lab](https://aicps.eng.uci.edu/) at [University of California, Irvine (UCI)](https://uci.edu/), where I have the privilege of being advised by [Prof. Mohammad Al Faruque](https://aicps.eng.uci.edu/people-2/). Prior to this, I worked as a Research Fellow at the [Queen's University of Belfast, UK](https://www.qub.ac.uk/), where I had the opportunity to work with [Dr. Ihsen Alouani](https://sites.google.com/view/ihsen-alouani) on security and privacy aspects of Machine Learning models.
+I am a postdoctoral scholar in the [Embedded & Cyber-Physical Systems (AICPS) Lab](https://aicps.eng.uci.edu/) at [University of California, Irvine (UCI)](https://uci.edu/), where I have the privilege of being advised by [Prof. Mohammad Al Faruque](https://aicps.eng.uci.edu/people-2/). Prior to this, I worked as a Research Fellow at the [Queen's University of Belfast, UK](https://www.qub.ac.uk/), where I had the opportunity to work with [Dr. Ihsen Alouani](https://sites.google.com/view/ihsen-alouani) on security and privacy aspects of Machine Learning.
 
 My research stands at the intersection of Multi-objective optimization, Machine Learning (ML), Hardware architectures, Security, and Privacy with an emphasis on resource-constrained intelligent systems. To enhance the performance, efficiency, and reliability of intelligent applications and devices, I develop methods that seamlessly integrate ML, optimization, security, and privacy analysis across both software and hardware levels.
 
