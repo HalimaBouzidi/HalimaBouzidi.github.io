@@ -53,7 +53,7 @@ I am extremely fortunate to have mentored and worked with brilliant students. Pl
 - ACM Transactions on Embedded Computing Systems (TECS)
 - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
 
-#### program committee
+#### Program Committee
 
 - ACM/IEEE Design, Automation, and Test in Europe (DATE 2025)
 - Euromicro Conference Series on Digital System Design (DSD 2023, 2024)

@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: h.halima.bouzidi@gmail.com
+subtitle: hbouzidi@uci.edu
 
 profile:
   align: right
@@ -29,7 +29,7 @@ latest_posts: false  # includes a list of the newest posts
 
 Hi! My name is Halima Bouzidi ^^
 
-I am a postdoctoral researcher in the [Embedded & Cyber-Physical Systems (AICPS) Lab](https://aicps.eng.uci.edu/) at the [University of California, Irvine (UCI)](https://uci.edu/), where I am fortunate to be advised by [Prof. Mohammad Abdullah Al Faruque](https://aicps.eng.uci.edu/people-2/).
+I am a postdoctoral scholar in the [Embedded & Cyber-Physical Systems (AICPS) Lab](https://aicps.eng.uci.edu/) at [University of California, Irvine (UCI)](https://uci.edu/), where I have the privilege of being advised by [Prof. Mohammad Al Faruque](https://aicps.eng.uci.edu/people-2/). Prior to this, I worked as a Research Fellow at the [Queen's University of Belfast, UK](https://www.qub.ac.uk/), where I had the opportunity to work with [Dr. Ihsen Alouani](https://sites.google.com/view/ihsen-alouani) on security and privacy aspects of Machine Learning models.
 
 My research stands at the intersection of Multi-objective optimization, Machine Learning (ML), Hardware architectures, Security, and Privacy with an emphasis on resource-constrained intelligent systems. To enhance the performance, efficiency, and reliability of intelligent applications and devices, I develop methods that seamlessly integrate ML, optimization, security, and privacy analysis across both software and hardware levels.
 

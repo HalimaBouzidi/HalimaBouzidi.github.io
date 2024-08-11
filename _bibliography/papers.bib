@@ -1,28 +1,11 @@
 ---
 ---
 
-@inproceedings{perf_pred_cf_2021,
-author = {Bouzidi, Halima and Ouarnoughi, Hamza and Niar, Smail and Cadi, Abdessamad Ait El},
-title = {Performance prediction for convolutional neural networks on edge GPUs},
-year = {2021},
-isbn = {9781450384049},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3457388.3458666},
-doi = {10.1145/3457388.3458666},
-abstract = {Edge computing is increasingly used for Artificial Intelligence (AI) purposes to meet latency, privacy, and energy challenges. Convolutional Neural networks (CNN) are more frequently deployed on Edge devices for several applications. However, due to their constrained computing resources and energy budget, Edge devices struggle to meet CNN's latency requirements while maintaining good accuracy. It is, therefore, crucial to choose the CNN with the best accuracy and latency trade-off while respecting hardware constraints. This paper presents and compares five of the widely used Machine Learning (ML) based approaches to predict CNN's inference execution time on Edge GPUs. For these 5 methods, in addition to their prediction accuracy, we also explore the time needed for their training and their hyperparameters' tuning. Finally, we compare times to run the prediction models on different platforms. The use of these methods will highly facilitate design space exploration by quickly providing the best CNN on a target Edge GPU. Experimental results show that XGBoost provides an interesting average prediction error even for unexplored and unseen CNN architectures. Random Forest depicts comparable accuracy but needs more effort and time to be trained. The other 3 approaches (OLS, MLP, and SVR) are less accurate for CNN performance estimation.},
-booktitle = {Proceedings of the 18th ACM International Conference on Computing Frontiers},
-pages = {54–62},
-numpages = {9},
-keywords = {CNN, XGBoost, edge GPU, multi-layer perceptrons, multiple linear regression, performance modeling, random forest, support vector machine},
-location = {Virtual Event, Italy},
-series = {CF '21}
-}
-
 
 @inproceedings{evo_dvfs_meta_2021,
   TITLE = {{Evolutionary-based Optimization of Hardware Configurations for DNN on Edge GPUs}},
   AUTHOR = {Bouzidi, Halima and Ouarnoughi, Hamza and Talbi, El-Ghazali and Ait El Cadi, Abdessamad and Niar, Smail},
+  abstract = {Performance and power consumption are major concerns for Deep Learning (DL) deployment on Edge hardware platforms. On the one hand, software-level optimization techniques such as pruning and quantization provide promising solutions to minimize power consumption while maintaining reasonable performance for Deep Neural Network (DNN). On the other hand, hardware-level optimization is an important solution to balance performance and power efficiency without changing the DNN application. In this context, many Edge hardware vendors offer the possibility to manually configure the Hardware parameters for a given application. However, this could be a complicated and a tedious task given the large size of the search space and the complexity of the evaluation process. This paper proposes a surrogate-assisted evolutionary algorithm to optimize the hardware parameters for DNNs on heterogeneous Edge GPU platforms. Our method combines both metaheuristics and Machine Learning (ML) to estimate the Pareto-front set of Hardware configurations that achieve the best trade-off between performance and power consumption. We demonstrate that our solution improves upon the default hardware configurations by 21% and 24% with respect to performance and power consumption, respectively.},
   URL = {https://hal.science/hal-04222016},
   BOOKTITLE = {{META'21, The 8th International Conference on Metaheuristics and Nature Inspired Computing}},
   ADDRESS = {Marrakech, Morocco},
@@ -32,6 +15,28 @@ series = {CF '21}
   PDF = {https://hal.science/hal-04222016/file/META_21.pdf},
   HAL_ID = {hal-04222016},
   HAL_VERSION = {v1},
+  preview = {dvfs_meta.png}
+}
+
+@inproceedings{perf_pred_cf_2021,
+author = {Bouzidi, Halima and Ouarnoughi, Hamza and Niar, Smail and Cadi, Abdessamad Ait El},
+title = {Performance prediction for convolutional neural networks on edge GPUs},
+year = {2021},
+isbn = {9781450384049},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3457388.3458666},
+doi = {10.1145/3457388.3458666},
+code={https://github.com/HalimaBouzidi/perf_prediction},
+pdf = {https://uphf.hal.science/hal-03379997/file/2010.11297.pdf},
+abstract = {Edge computing is increasingly used for Artificial Intelligence (AI) purposes to meet latency, privacy, and energy challenges. Convolutional Neural networks (CNN) are more frequently deployed on Edge devices for several applications. However, due to their constrained computing resources and energy budget, Edge devices struggle to meet CNN's latency requirements while maintaining good accuracy. It is, therefore, crucial to choose the CNN with the best accuracy and latency trade-off while respecting hardware constraints. This paper presents and compares five of the widely used Machine Learning (ML) based approaches to predict CNN's inference execution time on Edge GPUs. For these 5 methods, in addition to their prediction accuracy, we also explore the time needed for their training and their hyperparameters' tuning. Finally, we compare times to run the prediction models on different platforms. The use of these methods will highly facilitate design space exploration by quickly providing the best CNN on a target Edge GPU. Experimental results show that XGBoost provides an interesting average prediction error even for unexplored and unseen CNN architectures. Random Forest depicts comparable accuracy but needs more effort and time to be trained. The other 3 approaches (OLS, MLP, and SVR) are less accurate for CNN performance estimation.},
+booktitle = {Proceedings of the 18th ACM International Conference on Computing Frontiers},
+pages = {54–62},
+numpages = {9},
+keywords = {CNN, XGBoost, edge GPU, multi-layer perceptrons, multiple linear regression, performance modeling, random forest, support vector machine},
+location = {Virtual Event, Italy},
+series = {CF '21},
+preview = {perf_cf.png}
 }
 
 
@@ -51,21 +56,29 @@ year="2022",
 publisher="Springer International Publishing",
 address="Cham",
 pages="3--12",
+code={https://github.com/HalimaBouzidi/Coptim-dnn-hw},
+pdf={https://link.springer.com/chapter/10.1007/978-3-031-22039-5_1},
 abstract="The ever-increasing complexity of both Deep Neural Networks (DNN) and hardware accelerators has made the co-optimization of these domains extremely complex. Previous works typically focus on optimizing DNNs given a fixed hardware configuration or optimizing a specific hardware architecture given a fixed DNN model. Recently, the importance of the joint exploration of the two spaces draw more and more attention. Our work targets the co-optimization of DNN and hardware configurations on edge GPU accelerator. We investigate the importance of the joint exploration of DNN and edge GPU configurations. We propose an evolutionary-based co-optimization strategy for DNN by considering three metrics: DNN accuracy, execution latency, and power consumption. By combining the two search spaces, we have observed that we can explore more solutions and obtain a better tradeoff between DNN accuracy and hardware efficiency. Experimental results show that the co-optimization outperforms the optimization of DNN for fixed hardware configuration with up to 53{\%} hardware efficiency gains for the same accuracy and latency.",
-isbn="978-3-031-22039-5"
+isbn="978-3-031-22039-5",
+preview = {dvfs_ola.png}
 }
 
 
 @INPROCEEDINGS{dvfs_nas_dsd_2022,
   author={Bouzidi, Halima and Ouarnoughi, Hamza and Niar, Smail and Talbi, El-Ghazali and El Cadi, Abdessamad Ait},
+  abstract={The ever-increasing complexity of both Deep Neural Networks (DNN) and hardware accelerators has made the co-optimization of these domains extremely complex. Previous works typically focus on optimizing DNNs given a fixed hardware configuration or optimizing a specific hardware architecture given a fixed DNN model. Recently, the importance of the joint exploration of the two spaces drew more and more attention. Our work targets the co-optimization of DNN and hardware configurations on edge GPU accelerators. We propose an evolutionary-based co-optimization strategy by considering three metrics: DNN accuracy, execution latency, and power consumption. By combining the two search spaces, a larger number of configurations can be explored in a short time interval. In addition, a better tradeoff between DNN accuracy and hardware efficiency can be obtained. Experimental results show that the co-optimization outperforms the optimization of DNN for fixed hardware configuration with up to 53% hardware efficiency gains with the same accuracy and inference time.},
   booktitle={2022 25th Euromicro Conference on Digital System Design (DSD)}, 
   title={Co-Optimization of DNN and Hardware Configurations on Edge GPUs}, 
   year={2022},
   volume={},
   number={},
   pages={398-405},
+  code={https://github.com/HalimaBouzidi/Coptim-dnn-hw},
+  pdf={https://hal.science/hal-03911415/document},
   keywords={Measurement;Power demand;Neural networks;Graphics processing units;Evolutionary computation;Linear programming;Hardware;DNN;Edge GPU;Hardware-aware Neural Architecture Search;Multi-objective optimization},
-  doi={10.1109/DSD57027.2022.00060}}
+  doi={10.1109/DSD57027.2022.00060},
+  preview = {dvfs_dsd.png}
+  }
 
 
 @article{perf_pred_tecs_2022,
@@ -85,12 +98,18 @@ journal = {ACM Trans. Embed. Comput. Syst.},
 month = {oct},
 articleno = {64},
 numpages = {33},
-keywords = {regression analysis, machine learning, memory usage, power consumption, execution time, edge GPU, CNN, Performance modeling}
+code={https://github.com/HalimaBouzidi/perf_prediction},
+pdf={https://d1wqtxts1xzle7.cloudfront.net/92477036/3527169-libre.pdf?1665839696=&response-content-disposition=inline%3B+filename%3DPerformances_Modeling_of_Computer_Vision.pdf&Expires=1723367220&Signature=ch3yiq-iqgpxTcfdbZMhqmURo9Wkxq-U11XYDzeyVXq7eSvgcX5dctLV~9kV6GXnx3cevJDwpH6tFIaQTTZG2aqsyA4yJzfBsDWp82WUa6FEOd1o36Xzs-4BwnILkLM53IC1L5i2CBF72wEqk-jsNdjW4fUYHnwonTGrYcRabu8EQTdW3jYFFsmoi5zOiWrD6AhlNNY-RgsdHEnkdQQnqiOGXM7WQva3qrwgx0gT6zeHtZXjKmznPF-5qbX83UPGFJdFWzp-qe1TVsPz9HRhc2HYpZQ8v~6jTUhXId-Mi-Av6XP-dW0YPuXme79S0wR7YPLULsEU~3BEpctDyJZfyw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA},
+keywords = {regression analysis, machine learning, memory usage, power consumption, execution time, edge GPU, CNN, Performance modeling},
+preview = {perf_tecs.png}
 }
 
 
 @INPROCEEDINGS{hadas_date_2023,
   author={Bouzidi, Halima and Odema, Mohanad and Ouarnoughi, Hamza and Al Faruque, Mohammad Abdullah and Niar, Smail},
+  abstract={Dynamic neural networks (DyNNs) have become viable techniques to enable intelligence on resource-constrained edge devices while maintaining computational efficiency. In many cases, the implementation of DyNNs can be sub-optimal due to its underlying backbone architecture being developed at the design stage independent of both: (i) potential support for dynamic computing, e.g. early exiting, and (ii) resource efficiency features of the underlying hardware, e.g., dynamic voltage and frequency scaling (DVFS). Addressing this, we present HADAS, a novel Hardware-Aware Dynamic Neural Architecture Search framework that realizes DyNN architectures whose backbone, early exiting features, and DVFS settings have been jointly optimized to maximize performance and resource efficiency. Our experiments using the CIFAR-100 dataset and a diverse set of edge computing platforms have shown that HADAS can elevate dynamic models' energy efficiency by up to 57% for the same level of accuracy scores. Our code is available at https://github.com/HalimaBouzidi/HADAS},
+  code={https://github.com/HalimaBouzidi/HADAS},
+  pdf={https://arxiv.org/pdf/2212.03354},
   booktitle={2023 Design, Automation & Test in Europe Conference & Exhibition (DATE)}, 
   title={HADAS: Hardware-Aware Dynamic Neural Architecture Search for Edge Performance Scaling}, 
   year={2023},
@@ -98,11 +117,16 @@ keywords = {regression analysis, machine learning, memory usage, power consumpti
   number={},
   pages={1-6},
   keywords={Electric potential;Computational modeling;Neural networks;Computer architecture;Voltage;Dynamic scheduling;Energy efficiency;dynamic neural networks;DVFS;neural architecture search;early exit;edge computing;joint optimization},
-  doi={10.23919/DATE56975.2023.10137095}}
+  doi={10.23919/DATE56975.2023.10137095},
+  preview = {hadas_date.png}
+  }
 
 
 @INPROCEEDINGS{mapconquer_dac_2023,
   author={Bouzidi, Halima and Odema, Mohanad and Ouarnoughi, Hamza and Niar, Smail and Al Faruque, Mohammad Abdullah},
+  abstract={Heterogeneous MPSoCs comprise diverse processing units of varying compute capabilities. To date, the mapping strategies of neural networks (NNs) onto such systems are yet to exploit the full potential of processing parallelism, made possible through both the intrinsic NNs' structure and underlying hardware composition. In this paper, we propose a novel framework to effectively map NNs onto heterogeneous MPSoCs in a manner that enables them to leverage the underlying processing concurrency. Specifically, our approach identifies an optimal partitioning scheme of the NN along its `width' dimension, which facilitates deployment of concurrent NN blocks onto different hardware computing units. Additionally, our approach contributes a novel scheme to deploy partitioned NNs onto the MPSoC as dynamic multi-exit networks for additional performance gains. Our experiments on a standard MPSoC platform have yielded dynamic mapping configurations that are 2.1x more energy-efficient than the GPU-only mapping while incurring 1.7x less latency than DLA-only mapping.},
+  code={https://github.com/Mohamed-Imed-Eddine/map-and-conquer},
+  pdf={https://arxiv.org/pdf/2302.12926},
   booktitle={2023 60th ACM/IEEE Design Automation Conference (DAC)}, 
   title={Map-and-Conquer: Energy-Efficient Mapping of Dynamic Neural Nets onto Heterogeneous MPSoCs}, 
   year={2023},
@@ -110,11 +134,15 @@ keywords = {regression analysis, machine learning, memory usage, power consumpti
   number={},
   pages={1-6},
   keywords={Concurrent computing;Design automation;Computational modeling;Artificial neural networks;Performance gain;Parallel processing;Hardware;dynamic neural networks;heterogeneous MPSoCs;computation mapping;hardware scaling;DVFS},
-  doi={10.1109/DAC56929.2023.10247722}}
+  doi={10.1109/DAC56929.2023.10247722},
+  preview = {map_dac.png}
+  }
 
 
 @article{magnas_cases_2023,
 author = {Odema, Mohanad and Bouzidi, Halima and Ouarnoughi, Hamza and Niar, Smail and Al Faruque, Mohammad Abdullah},
+code={https://github.com/Mohamed-Imed-Eddine/magnas},
+pdf={https://dl.acm.org/doi/pdf/10.1145/3609386},
 title = {MaGNAS: A Mapping-Aware Graph Neural Architecture Search Framework for Heterogeneous MPSoC Deployment},
 year = {2023},
 issue_date = {October 2023},
@@ -130,17 +158,22 @@ journal = {ACM Trans. Embed. Comput. Syst.},
 month = {sep},
 articleno = {108},
 numpages = {26},
-keywords = {edge computing, HW-SW codesign, MPSoCs, Graph neural networks}
+keywords = {edge computing, HW-SW codesign, MPSoCs, Graph neural networks},
+preview = {magnas_cases.png}
 }
 
 
 @article{sonata_preprint_2024,
   title={SONATA: Self-adaptive Evolutionary Framework for Hardware-aware Neural Architecture Search},
+  abstract={Recent advancements in Artificial Intelligence (AI), driven by Neural Networks (NN), demand innovative neural architecture designs, particularly within the constrained environments of Internet of Things (IoT) systems, to balance performance and efficiency. HW-aware Neural Architecture Search (HW-aware NAS) emerges as an attractive strategy to automate the design of NN using multi-objective optimization approaches, such as evolutionary algorithms. However, the intricate relationship between NN design parameters and HW-aware NAS optimization objectives remains an underexplored research area, overlooking opportunities to effectively leverage this knowledge to guide the search process accordingly. Furthermore, the large amount of evaluation data produced during the search holds untapped potential for refining the optimization strategy and improving the approximation of the Pareto front. Addressing these issues, we propose SONATA, a self-adaptive evolutionary algorithm for HW-aware NAS. Our method leverages adaptive evolutionary operators guided by the learned importance of NN design parameters. Specifically, through tree-based surrogate models and a Reinforcement Learning agent, we aspire to gather knowledge on 'How' and 'When' to evolve NN architectures. Comprehensive evaluations across various NAS search spaces and hardware devices on the ImageNet-1k dataset have shown the merit of SONATA with up to 0.25% improvement in accuracy and up to 2.42x gains in latency and energy. Our SONATA has seen up to sim$93.6% Pareto dominance over the native NSGA-II, further stipulating the importance of self-adaptive evolution operators in HW-aware NAS.},
+  code={https://github.com/Mohamed-Imed-Eddine/sonata},
+  pdf={https://arxiv.org/pdf/2402.13204},
   author={Halima Bouzidi and Sma{\"i}l Niar and Hamza Ouarnoughi and El-Ghazali Talbi},
   journal={ArXiv},
   year={2024},
   volume={abs/2402.13204},
-  url={https://api.semanticscholar.org/CorpusID:267759968}
+  url={https://api.semanticscholar.org/CorpusID:267759968},
+  preview = {sonata.png}
 }
 
 
@@ -148,6 +181,7 @@ keywords = {edge computing, HW-SW codesign, MPSoCs, Graph neural networks}
 @InProceedings{harmonicnas_acml_2024,
   title = 	 {{Harmonic-NAS}: {H}ardware-Aware Multimodal Neural Architecture Search on Resource-constrained Devices},
   author =       {Ghebriout, Mohamed Imed Eddine and Bouzidi, Halima and Niar, Smail and Ouarnoughi, Hamza},
+  code = {https://github.com/Mohamed-Imed-Eddine/Harmonic-NAS},
   booktitle = 	 {Proceedings of the 15th Asian Conference on Machine Learning},
   pages = 	 {374--389},
   year = 	 {2024},
@@ -158,17 +192,22 @@ keywords = {edge computing, HW-SW codesign, MPSoCs, Graph neural networks}
   publisher =    {PMLR},
   pdf = 	 {https://proceedings.mlr.press/v222/ghebriout24a/ghebriout24a.pdf},
   url = 	 {https://proceedings.mlr.press/v222/ghebriout24a.html},
-  abstract = 	 {The recent surge of interest surrounding Multimodal Neural Networks (MM-NN) is attributed to their ability to effectively process and integrate multiscale information from diverse data sources. MM-NNs extract and fuse features from multiple modalities using adequate unimodal backbones and specific fusion networks. Although this helps strengthen the multimodal information representation, designing such networks is labor-intensive. It requires tuning the architectural parameters of the unimodal backbones, choosing the fusing point, and selecting the operations for fusion. Furthermore, multimodality AI is emerging as a cutting-edge option in Internet of Things (IoT) systems where inference latency and energy consumption are critical metrics in addition to accuracy. In this paper, we propose \textit{Harmonic-NAS}, a framework for the joint optimization of unimodal backbones and multimodal fusion networks with hardware awareness on resource-constrained devices. \textit{Harmonic-NAS} involves a two-tier optimization approach for the unimodal backbone architectures and fusion strategy and operators. By incorporating the hardware dimension into the optimization, evaluation results on various devices and multimodal datasets have demonstrated the superiority of \textit{Harmonic-NAS} over state-of-the-art approaches achieving up to $\sim \textbf{10.9%} accuracy improvement, $\sim$\textbf{1.91x} latency reduction, and $\sim$\textbf{2.14x} energy efficiency gain.}
+  abstract = 	 {The recent surge of interest surrounding Multimodal Neural Networks (MM-NN) is attributed to their ability to effectively process and integrate multiscale information from diverse data sources. MM-NNs extract and fuse features from multiple modalities using adequate unimodal backbones and specific fusion networks. Although this helps strengthen the multimodal information representation, designing such networks is labor-intensive. It requires tuning the architectural parameters of the unimodal backbones, choosing the fusing point, and selecting the operations for fusion. Furthermore, multimodality AI is emerging as a cutting-edge option in Internet of Things (IoT) systems where inference latency and energy consumption are critical metrics in addition to accuracy. In this paper, we propose \textit{Harmonic-NAS}, a framework for the joint optimization of unimodal backbones and multimodal fusion networks with hardware awareness on resource-constrained devices. \textit{Harmonic-NAS} involves a two-tier optimization approach for the unimodal backbone architectures and fusion strategy and operators. By incorporating the hardware dimension into the optimization, evaluation results on various devices and multimodal datasets have demonstrated the superiority of \textit{Harmonic-NAS} over state-of-the-art approaches achieving up to $\sim \textbf{10.9%} accuracy improvement, $\sim$\textbf{1.91x} latency reduction, and $\sim$\textbf{2.14x} energy efficiency gain.},
+  preview = {harmonic_acml.png}
 }
 
 
 @article{hijacking_preprint_2024,
   title={Model for Peanuts: Hijacking ML Models without Training Access is Possible},
   author={Mahmoud Ghorbel and Halima Bouzidi and Ioan Marius Bilasco and Ihsen Alouani},
+  abstract={The massive deployment of Machine Learning (ML) models has been accompanied by the emergence of several attacks that threaten their trustworthiness and raise ethical and societal concerns such as invasion of privacy, discrimination risks, and lack of accountability. Model hijacking is one of these attacks, where the adversary aims to hijack a victim model to execute a different task than its original one. Model hijacking can cause accountability and security risks since a hijacked model owner can be framed for having their model offering illegal or unethical services. Prior state-of-the-art works consider model hijacking as a training time attack, whereby an adversary requires access to the ML model training to execute their attack. In this paper, we consider a stronger threat model where the attacker has no access to the training phase of the victim model. Our intuition is that ML models, typically over-parameterized, might (unintentionally) learn more than the intended task for they are trained. We propose a simple approach for model hijacking at inference time named SnatchML to classify unknown input samples using distance measures in the latent space of the victim model to previously known samples associated with the hijacking task classes. SnatchML empirically shows that benign pre-trained models can execute tasks that are semantically related to the initial task. Surprisingly, this can be true even for hijacking tasks unrelated to the original task. We also explore different methods to mitigate this risk. We first propose a novel approach we call meta-unlearning, designed to help the model unlearn a potentially malicious task while training on the original task dataset. We also provide insights on over-parameterization as one possible inherent factor that makes model hijacking easier, and we accordingly propose a compression-based countermeasure against this attack.},
+  code={https://github.com/HalimaBouzidi/SnatchML},
+  pdf={https://arxiv.org/pdf/2406.01708},
   journal={ArXiv},
   year={2024},
   volume={abs/2406.01708},
-  url={https://api.semanticscholar.org/CorpusID:270226742}
+  url={https://api.semanticscholar.org/CorpusID:270226742},
+  preview = {snatch.png}
 }
 
 
