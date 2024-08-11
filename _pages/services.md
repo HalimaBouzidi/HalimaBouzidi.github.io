@@ -8,37 +8,39 @@ nav_order: 5
 
 ### Academic Teaching
 
-During my PhD, I served as a graduate Teaching Assistant (TA) for the following courses:
+During my PhD (2021-2023), I served as a graduate Teaching Assistant (TA) for the following courses:
 
 - **Introduction to Computer Architectures and Operating Systems** (INSA Hauts-de-France): Fall 2021, 2022, 2023
 - **Introduction to Algorithm and Programming** (INSA Hauts-de-France): Fall 2022
 
 ---
 
-### Student mentees/collaborators
+### Student Mentees/Collaborators
 
 I am extremely fortunate to have mentored and worked with brilliant students. Please feel free to reach out if you are interested in collaborating!
 
-#### Undegrad, Master, and Graduate Students
+#### Undegrad, Master, and Grad Students
 
 - [Mohamed Imed Eddine Ghebriout](https://dz.linkedin.com/in/mohamed-imed-eddine-ghebriout-a4b9601b1)
 - [Farouk Abdallah](https://www.linkedin.com/in/farouk-abdallah/)
 - [Taha Yassine Abidi](https://www.linkedin.com/in/tahayacinabidi/)
 - [Selsabil Rouibi](https://www.linkedin.com/in/selsabil-rouibi/)
 - [Kaouthar Essaheli](https://www.linkedin.com/in/kaouthar-essaheli-78667921a/)
+- [Ildi Alla](https://www.linkedin.com/in/ildi-alla-7268b2184/)
+- [Selina Cheggour](https://fr.linkedin.com/in/selina-cheggour)
 
 
 ---
 
-### Academic services
+### Academic Services
 
 #### Reviewer of Conferences/Workshops
 
 - Neural Information Processing Systems (Neurips 2024)
 - AI for Science ICML Workshop (ICML-AI4Science 2024)
 - The Asian Conference on Machine Learning (ACML 2024)
+- Northern Lights Deep Learning Conference (NLDL 2024, 2025)
 - IEEE International Symposium on Circuits and Systems (ISCAS 2024)
-- Northern Lights Deep Learning Conference (NLDL 2024)
 - Generative AI for Biology NeurIPS Workshop (GenBio@NeurIPS 2023)
 - AI for Science NeurIPS Workshop (NeurIPS-AI4Science 2023)
 - The International Symposium on Performance Analysis of Systems and Software (ISPASS 2023)
