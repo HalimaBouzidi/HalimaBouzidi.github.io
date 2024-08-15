@@ -37,6 +37,7 @@ I am extremely fortunate to have mentored and worked with brilliant students. Pl
 #### Reviewer of Conferences/Workshops
 
 - Neural Information Processing Systems (Neurips 2024)
+- Women in Computer Vision ECCV workshop (ECCV-WiCV 2024)
 - AI for Science ICML Workshop (ICML-AI4Science 2024)
 - The Asian Conference on Machine Learning (ACML 2024)
 - Northern Lights Deep Learning Conference (NLDL 2024, 2025)
