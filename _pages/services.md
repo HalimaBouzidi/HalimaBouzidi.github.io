@@ -36,6 +36,7 @@ I am extremely fortunate to have mentored and worked with brilliant students. Pl
 
 #### Reviewer of Conferences/Workshops
 
+- International Conference on Learning Representations (ICLR 2025)
 - International Conference on Artificial Intelligence and Statistics (AISTATS 2025)
 - Neural Information Processing Systems (Neurips 2024)
 - Women in Computer Vision ECCV workshop (ECCV-WiCV 2024)

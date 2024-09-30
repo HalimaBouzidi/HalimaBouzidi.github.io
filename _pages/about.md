@@ -23,7 +23,9 @@ social: false  # includes social icons at the bottom of the page
 latest_posts: false  # includes a list of the newest posts
 ---
 
- [GitHub](https://github.com/HalimaBouzidi) &nbsp;&nbsp;&nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?user=sI0ity4AAAAJ&hl=en) &nbsp;&nbsp;&nbsp;&nbsp; [X](https://twitter.com/HalimaBouzidi1) &nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/halimabouzidi/) &nbsp;&nbsp;&nbsp;&nbsp; [CV](/assets/pdf/Halima_Bouzidi_CV.pdf)
+ [GitHub](https://github.com/HalimaBouzidi) &nbsp;&nbsp;&nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?user=sI0ity4AAAAJ&hl=en) &nbsp;&nbsp;&nbsp;&nbsp; [X](https://twitter.com/HalimaBouzidi1) &nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/halimabouzidi/)
+ 
+<!-- &nbsp;&nbsp;&nbsp;&nbsp; [CV](/assets/pdf/Halima_Bouzidi_CV.pdf) -->
 
 <!-- **Some text, maybe for later** -->
 
