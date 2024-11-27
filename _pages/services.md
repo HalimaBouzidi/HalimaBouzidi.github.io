@@ -65,3 +65,11 @@ I am extremely fortunate to have mentored and worked with brilliant students. Pl
 - ACM/IEEE Design, Automation, and Test in Europe (DATE 2025)
 - Euromicro Conference Series on Digital System Design (DSD 2023, 2024)
 - Scalable Deep Learning over Parallel And Distributed Infrastructures workshop (ScaDL 2023)
+
+#### Artifact Evaluation Committee
+
+- USENIX Security Symposium (USENIX 2025)
+
+### Organizing Committee
+
+- Cyber-Physical Systems and Internet-of-Things Week (CPS-IoT 2025)
