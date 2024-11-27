@@ -70,6 +70,6 @@ I am extremely fortunate to have mentored and worked with brilliant students. Pl
 
 - USENIX Security Symposium (USENIX 2025)
 
-### Organizing Committee
+#### Organizing Committee
 
 - Cyber-Physical Systems and Internet-of-Things Week (CPS-IoT 2025)
