@@ -56,7 +56,7 @@ I am extremely fortunate to have mentored and worked with brilliant students. Pl
 
 #### Reviewer of Journals
 
-- IEEE Transactions on Pattern Analysis and Machine Intelligence
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 - ACM Transactions on Computer Systems (TOCS)
 - ACM Transactions on Embedded Computing Systems (TECS)
 - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
