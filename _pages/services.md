@@ -8,6 +8,10 @@ nav_order: 5
 
 ### Academic Teaching
 
+As a postdoctoral scholar at UCI, I will serve as a lecturer for the following course:
+
+- **Advanced C Programming** (University of California, Irvine): Winter Quarter 2025
+
 During my PhD (2021-2023), I served as a graduate Teaching Assistant (TA) for the following courses:
 
 - **Introduction to Computer Architectures and Operating Systems** (INSA Hauts-de-France): Fall 2021, 2022, 2023
@@ -36,6 +40,7 @@ I am extremely fortunate to have mentored and worked with brilliant students. Pl
 
 #### Reviewer of Conferences/Workshops
 
+- International Conference on Machine Learning (ICML 2025)
 - International Conference on Learning Representations (ICLR 2025)
 - International Conference on Artificial Intelligence and Statistics (AISTATS 2025)
 - Neural Information Processing Systems (Neurips 2024)
@@ -64,7 +69,7 @@ I am extremely fortunate to have mentored and worked with brilliant students. Pl
 #### Program Committee
 
 - ACM/IEEE Design, Automation, and Test in Europe (DATE 2025)
-- Euromicro Conference Series on Digital System Design (DSD 2023, 2024)
+- Euromicro Conference Series on Digital System Design (DSD 2023, 2024, 2025)
 - Scalable Deep Learning over Parallel And Distributed Infrastructures workshop (ScaDL 2023)
 
 #### Artifact Evaluation Committee
