@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-🔍 Serving on the Program Committee for the Northern Lights Deep Learning Conference (NLDL 2025)!
+🔗 Serving on the Program Committee for the Northern Lights Deep Learning Conference (NLDL 2025)!

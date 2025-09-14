@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-🔧 Serving on the Program Committee for the Design, Automation and Test in Europe Conference (DATE 2025) in Lyon, France!
+🔗 Serving on the Program Committee for the Design, Automation and Test in Europe Conference (DATE 2025) in Lyon, France!

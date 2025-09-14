@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-🔬🧪 Joined the Embedded & Cyber-Physical Systems (AICPS) Lab at UCI as a Postdoctoral Scholar. Excited to work on secure, efficient, and aligned AI for autonomous systems.
+🇺🇸🔬 Joined the Embedded & Cyber-Physical Systems (AICPS) Lab at UCI as a Postdoctoral Scholar. Excited to work on secure, efficient, and aligned AI for autonomous systems.

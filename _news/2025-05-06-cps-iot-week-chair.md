@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-🙌🔗 Serving as Volunteer Chair at Cyber-Physical Systems and Internet-of-Things Week (CPS-IoT Week 2025). Proud to help bring together the CPS community.
+🔗 Serving as Volunteer Chair at Cyber-Physical Systems and Internet-of-Things Week (CPS-IoT Week 2025). Proud to help bring together the CPS community.

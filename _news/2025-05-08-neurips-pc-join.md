@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-🔍 Serving on the Program Committee for the Conference on Neural Information Processing Systems (NeurIPS 2025)!
+🔗 Serving on the Program Committee for the Conference on Neural Information Processing Systems (NeurIPS 2025)!

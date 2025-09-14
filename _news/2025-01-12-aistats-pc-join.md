@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-🔍 Serving on the Program Committee for the International Conference on Artificial Intelligence and Statistics (AISTATS 2025)!
+🔗 Serving on the Program Committee for the International Conference on Artificial Intelligence and Statistics (AISTATS 2025)!

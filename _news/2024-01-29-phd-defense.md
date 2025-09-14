@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-🎓🥳 Successfully defended my Ph.D.: “Efficient Deployment of Deep Neural Networks on Hardware Devices for Edge AI.” Immensely grateful to my advisors and collaborators.
+🇫🇷🎓🥳 Successfully defended my Ph.D.: “Efficient Deployment of Deep Neural Networks on Hardware Devices for Edge AI.” Immensely grateful to my advisors and collaborators.

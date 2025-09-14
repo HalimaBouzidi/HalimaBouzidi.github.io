@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-🔍 Serving on the Artifact Evaluation Committee for USENIX Security '25!
+🔗 Serving on the Artifact Evaluation Committee for USENIX Security '25!

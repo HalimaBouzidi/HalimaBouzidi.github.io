@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-🔍 Serving on the Program Committee for the European Conference on Computer Systems (EuroSys 2026)!
+🔗 Serving on the Program Committee for the European Conference on Computer Systems (EuroSys 2026)!

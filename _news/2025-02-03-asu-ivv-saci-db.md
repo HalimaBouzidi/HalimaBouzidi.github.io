@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-🧰⚙️ Pitched our Software-Aware Cyber-Physical Vulnerability Database (SACI-DB) at IV&V@ASU. Accelerating red-teaming with 90+ curated cyber-physical exploits.
+⚙️ Pitched our Software-Aware Cyber-Physical Vulnerability Database (SACI-DB) at IV&V@ASU. Accelerating red-teaming with 90+ curated cyber-physical exploits.

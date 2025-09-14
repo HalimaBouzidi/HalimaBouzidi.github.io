@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-🔍 Serving on the Artifact Evaluation Committee for the Network and Distributed System Security (NDSS) Symposium 2025!
+🔗 Serving on the Artifact Evaluation Committee for the Network and Distributed System Security (NDSS) Symposium 2025!

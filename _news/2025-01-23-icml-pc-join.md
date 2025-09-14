@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-🔍 Serving on the Program Committee for the 42nd International Conference on Machine Learning (ICML 2025)!
+🔗 Serving on the Program Committee for the 42nd International Conference on Machine Learning (ICML 2025)!

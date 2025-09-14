@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-🏅📚 Honored to be recognized as a Notable Reviewer at ICLR 2025. Grateful to the community and excited to keep supporting rigorous, impactful ML research.
+🏅🔗 Honored to be recognized as a Notable Reviewer at ICLR 2025. Grateful to the community and excited to keep supporting rigorous, impactful ML research.

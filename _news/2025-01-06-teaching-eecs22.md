@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-🎓💻 Kicking off Winter 2025 teaching EECS 22: Advanced C Programming at UCI. From pointers to performance—let’s code it right.
+🎓🔗 Kicking off Winter 2025 teaching EECS 22: Advanced C Programming at UCI. From pointers to performance, let’s code it right.
