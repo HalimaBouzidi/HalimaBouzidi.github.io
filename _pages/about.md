@@ -15,10 +15,10 @@ profile:
 # <p>"giant panda": 100,000%</p>
 # <p>(he/him)</p>
 
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
-latest_posts: false  # includes a list of the newest posts
+social: true  # includes social icons at the bottom of the page
+latest_posts: true  # includes a list of the newest posts
 ---
 
  [GitHub](https://github.com/HalimaBouzidi) &nbsp;&nbsp;&nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?user=sI0ity4AAAAJ&hl=en) &nbsp;&nbsp;&nbsp;&nbsp; [X](https://twitter.com/HalimaBouzidi1) &nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/halimabouzidi/) &nbsp;&nbsp;&nbsp;&nbsp; [CV](/assets/pdf/Halima_Bouzidi_Resume.pdf)
