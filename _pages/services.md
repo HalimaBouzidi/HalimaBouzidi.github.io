@@ -40,9 +40,34 @@ I am extremely fortunate to have mentored and worked with brilliant students. Pl
 
 #### Reviewer of Conferences/Workshops
 
-- 2025: Conference on Neural Information Processing Systems (NeurIPS), AAAI Conference on Artificial Intelligence (AAAI), International Conference on Machine Learning (ICML), International Conference on Learning Representations (ICLR), International Conference on Artificial Intelligence and Statistics (AISTATS), European Conference on Computer Systems (EuroSys), Northern Lights Deep Learning Conference (NLDL), Design, Automation and Test in Europe (DATE), ICML Workshop on AI for Science (AI4Science@ICML), ICML Workshop on Generative AI for Biology (GenBio@ICML), MusIML Workshop at ICML, Women in Machine Learning Workshop at NeurIPS (WiML@NeurIPS), NeurIPS Workshop on AI for Science (AI4Science@NeurIPS), SPIGM Workshop at NeurIPS
-- 2024: Conference on Neural Information Processing Systems (NeurIPS), Asian Conference on Machine Learning (ACML), IEEE International Symposium on Circuits and Systems (ISCAS), Northern Lights Deep Learning Conference (NLDL), Design, Automation and Test in Europe (DATE), ICML Workshop on AI for Science (AI4Science@ICML)
-- 2023: IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), Design, Automation and Test in Europe (DATE), IEEE International Conference on Edge Computing (EDGE), NeurIPS Workshop on Generative AI for Biology (GenBio@NeurIPS), NeurIPS Workshop on AI for Science (AI4Science@NeurIPS)
+- 2025
+	- Conference on Neural Information Processing Systems (NeurIPS)
+	- AAAI Conference on Artificial Intelligence (AAAI)
+	- International Conference on Machine Learning (ICML)
+	- International Conference on Learning Representations (ICLR)
+	- International Conference on Artificial Intelligence and Statistics (AISTATS)
+	- European Conference on Computer Systems (EuroSys)
+	- Northern Lights Deep Learning Conference (NLDL)
+	- Design, Automation and Test in Europe (DATE)
+	- ICML Workshop on AI for Science (AI4Science@ICML)
+	- ICML Workshop on Generative AI for Biology (GenBio@ICML)
+	- MusIML Workshop at ICML
+	- Women in Machine Learning Workshop at NeurIPS (WiML@NeurIPS)
+	- NeurIPS Workshop on AI for Science (AI4Science@NeurIPS)
+	- SPIGM Workshop at NeurIPS
+- 2024
+	- Conference on Neural Information Processing Systems (NeurIPS)
+	- Asian Conference on Machine Learning (ACML)
+	- IEEE International Symposium on Circuits and Systems (ISCAS)
+	- Northern Lights Deep Learning Conference (NLDL)
+	- Design, Automation and Test in Europe (DATE)
+	- ICML Workshop on AI for Science (AI4Science@ICML)
+- 2023
+	- IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)
+	- Design, Automation and Test in Europe (DATE)
+	- IEEE International Conference on Edge Computing (EDGE)
+	- NeurIPS Workshop on Generative AI for Biology (GenBio@NeurIPS)
+	- NeurIPS Workshop on AI for Science (AI4Science@NeurIPS)
 
 #### Sub-Reviewer of Conferences/Workshops
 
@@ -59,8 +84,21 @@ I am extremely fortunate to have mentored and worked with brilliant students. Pl
 
 #### Program Committee
 
-- 2025: Conference on Neural Information Processing Systems (NeurIPS), International Conference on Machine Learning (ICML), International Conference on Learning Representations (ICLR), AAAI Conference on Artificial Intelligence (AAAI), International Conference on Artificial Intelligence and Statistics (AISTATS), European Conference on Computer Systems (EuroSys), Design, Automation and Test in Europe (DATE), Northern Lights Deep Learning Conference (NLDL)
-- 2024: Conference on Neural Information Processing Systems (NeurIPS), Asian Conference on Machine Learning (ACML), Euromicro Conference on Digital System Design (DSD), Scalable Deep Learning over Parallel and Distributed Infrastructures Workshop (ScaDL), Northern Lights Deep Learning Conference (NLDL)
+- 2025
+	- Conference on Neural Information Processing Systems (NeurIPS)
+	- International Conference on Machine Learning (ICML)
+	- International Conference on Learning Representations (ICLR)
+	- AAAI Conference on Artificial Intelligence (AAAI)
+	- International Conference on Artificial Intelligence and Statistics (AISTATS)
+	- European Conference on Computer Systems (EuroSys)
+	- Design, Automation and Test in Europe (DATE)
+	- Northern Lights Deep Learning Conference (NLDL)
+- 2024
+	- Conference on Neural Information Processing Systems (NeurIPS)
+	- Asian Conference on Machine Learning (ACML)
+	- Euromicro Conference on Digital System Design (DSD)
+	- Scalable Deep Learning over Parallel and Distributed Infrastructures Workshop (ScaDL)
+	- Northern Lights Deep Learning Conference (NLDL)
 
 #### Artifact Evaluation Committee
 
