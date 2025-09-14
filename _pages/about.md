@@ -35,7 +35,7 @@ latest_posts: false  # includes a list of the newest posts
 
 ### 🚀 Research Focus
 
-I'm passionate about developing **secure, efficient, and aligned AI systems** that are both powerful and safe for real-world deployment. My work focuses on creating **adversarial security tools** and **trustworthy AI solutions** that ensure AI systems behave reliably and efficiently. My expertise spans **Secure and Trustworthy AI**, **AI Safety**, **Adversarial Machine Learning**, and **Edge/Embedded AI** deployment.
+I'm passionate about developing **secure, efficient, and aligned AI systems** that are both powerful and safe for real-world deployment. My work focuses on creating **adversarial security tools** and **trustworthy AI solutions** that ensure AI systems behave reliably and efficiently. My expertise spans **Secure and Trustworthy AI**, **AI Safety**, **Adversarial Machine Learning**, and **Edge AI** deployment.
 
 My research lives at the **exciting intersection** of:
 - 🛡️ **Secure Machine Learning**: Adversarial ML, Robustness evaluation, Physical adversarial attacks, Red-teaming of AI systems.
