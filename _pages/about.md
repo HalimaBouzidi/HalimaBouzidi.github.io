@@ -2,7 +2,6 @@
 layout: about
 title: About
 permalink: /
-subtitle: hbou---
 profile:
   align: right
   image: prof_pic.jpg
@@ -28,26 +27,20 @@ latest_posts: false  # includes a list of the newest posts
 
 ## Hi! I'm Halima Bouzidi 👋
 
-🔬 **Postdoctoral Scholar** at the [Embedded & Cyber-Physical Systems (AICPS) Lab](https://aicps.eng.uci.edu/) | [University of California, Irvine (UCI)](https://uci.edu/)  
-🎯 **Co-advised by**: [Prof. Mohammad Al Faruque](https://aicps.eng.uci.edu/people-2/) (Primary) & Prof. Qi Alfred Chen (Co-PI)
+🔬 **Postdoctoral Scholar** at the [Embedded & Cyber-Physical Systems (AICPS) Lab](https://aicps.eng.uci.edu/) 
 
-🌟 **Previously**: Research Fellow in Trustworthy AI at [Queen's University of Belfast, UK](https://www.qub.ac.uk/) with [Dr. Ihsen Alouani](https://sites.google.com/view/ihsen-alouani) (Jan 2024 - Jul 2024)
+🌟 **Previously**: Research Fellow in Trustworthy AI at [Queen's University of Belfast, UK](https://www.qub.ac.uk/) 
 
 ---
 
 ### 🚀 Research Focus
 
-**Machine Learning and Security researcher** with 5+ years of experience developing efficient AI systems and adversarial security tools. I specialize in **Secure and Trustworthy AI**, **Adversarial Machine Learning**, and **Edge/Embedded AI** deployment.
+I'm passionate about developing **secure/efficient AI systems** and **adversarial security tools** that push the boundaries of what's possible. My expertise spans **Secure and Trustworthy AI**, **Adversarial Machine Learning**, and **Edge/Embedded AI** deployment.
 
 My research lives at the **exciting intersection** of:
-- 🛡️ **Secure Machine Learning**: Adversarial ML, Robustness Evaluation, Physical Adversarial Attacks (Acoustic, Optical, Electromagnetic), Red-Teaming of AI Systems, AI for Security
-- 🤖 **Efficient Machine Learning**: Hardware-Aware Neural Architecture Search (NAS), Graph Neural Networks, Edge AI, Energy-Efficiency, Model Compression
-- 🎯 **Autonomous Systems Security**: Security of Cyber-Physical Systems, Privacy Attacks (Membership Inference, Model Hijacking)
-- � **Hardware-Software Co-Design**: Multi-objective optimization, resource-constrained intelligent systems
-
-� **Current Research**: Leading the **AICPS Security Group** investigating emerging threats to autonomous systems, including sensor spoofing and attacks on machine learning models such as LLMs and vision-language-action (VLAMs) models.
-
-💡 **DARPA Collaboration**: Contributing to the DARPA FIRE program (UCI + ASU + HII), developing a cyber-physical exploits knowledge base (SACI-DB) with 90+ vulnerabilities to accelerate red-teaming.
+- 🛡️ **Secure Machine Learning**: Adversarial ML, Robustness Evaluation, Physical Adversarial Attacks, Red-Teaming of AI Systems.
+- 🤖 **Efficient Machine Learning**: Hardware-Aware Neural Architecture Search (NAS), Graph Neural Networks, Edge AI, Energy-Efficiency.
+- 🎯 **Hardware-Software Co-Design**: Multi-objective optimization, resource-constrained intelligent systems, Sensor-ML co-design for security.
 
 ---
 
