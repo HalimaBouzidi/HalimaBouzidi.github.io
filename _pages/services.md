@@ -38,6 +38,24 @@ I am extremely fortunate to have mentored and worked with brilliant students. Pl
 
 ### Academic Services
 
+#### Program Committee
+
+- 2025
+	- Conference on Neural Information Processing Systems (NeurIPS)
+	- International Conference on Machine Learning (ICML)
+	- International Conference on Learning Representations (ICLR)
+	- AAAI Conference on Artificial Intelligence (AAAI)
+	- International Conference on Artificial Intelligence and Statistics (AISTATS)
+	- European Conference on Computer Systems (EuroSys)
+	- Design, Automation and Test in Europe (DATE)
+	- Northern Lights Deep Learning Conference (NLDL)
+- 2024
+	- Conference on Neural Information Processing Systems (NeurIPS)
+	- Asian Conference on Machine Learning (ACML)
+	- Euromicro Conference on Digital System Design (DSD)
+	- Scalable Deep Learning over Parallel and Distributed Infrastructures Workshop (ScaDL)
+	- Northern Lights Deep Learning Conference (NLDL)
+
 #### Reviewer of Conferences/Workshops
 
 - 2025
@@ -77,33 +95,18 @@ I am extremely fortunate to have mentored and worked with brilliant students. Pl
 
 #### Reviewer of Journals
 
-- IEEE Transactions on Network and Service Management (TNSM) — 2025
-- IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD) — 2025
-- ACM Transactions on Computer Systems (TOCS) — 2024
-- ACM Transactions on Embedded Computing Systems (TECS) — 2024
-
-#### Program Committee
-
 - 2025
-	- Conference on Neural Information Processing Systems (NeurIPS)
-	- International Conference on Machine Learning (ICML)
-	- International Conference on Learning Representations (ICLR)
-	- AAAI Conference on Artificial Intelligence (AAAI)
-	- International Conference on Artificial Intelligence and Statistics (AISTATS)
-	- European Conference on Computer Systems (EuroSys)
-	- Design, Automation and Test in Europe (DATE)
-	- Northern Lights Deep Learning Conference (NLDL)
+	- IEEE Transactions on Network and Service Management (TNSM)
+    - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
 - 2024
-	- Conference on Neural Information Processing Systems (NeurIPS)
-	- Asian Conference on Machine Learning (ACML)
-	- Euromicro Conference on Digital System Design (DSD)
-	- Scalable Deep Learning over Parallel and Distributed Infrastructures Workshop (ScaDL)
-	- Northern Lights Deep Learning Conference (NLDL)
+	- ACM Transactions on Computer Systems (TOCS)
+    - ACM Transactions on Embedded Computing Systems (TECS)
 
 #### Artifact Evaluation Committee
 
-- Artifact Evaluation Committee — Network and Distributed System Security Symposium (NDSS 2025)
-- Artifact Evaluation Committee — USENIX Security Symposium (USENIX Security 2025)
+- 2025
+	- Network and Distributed System Security Symposium (NDSS)
+    - USENIX Security Symposium (USENIX Security)
 
 #### Organizing Committee
 
