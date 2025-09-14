@@ -27,7 +27,7 @@ latest_posts: false  # includes a list of the newest posts
 
 ## Hi! I'm Halima Bouzidi 👋
 
-🔬 **Postdoctoral Scholar** at the [Embedded & Cyber-Physical Systems (AICPS) Lab](https://aicps.eng.uci.edu/) 
+🔬 **Postdoctoral Scholar** at the [Embedded & Cyber-Physical Systems (AICPS) Lab at UCI ](https://aicps.eng.uci.edu/) 
 
 🌟 **Previously**: Research Fellow in Trustworthy AI at [Queen's University of Belfast, UK](https://www.qub.ac.uk/) 
 
@@ -35,12 +35,12 @@ latest_posts: false  # includes a list of the newest posts
 
 ### 🚀 Research Focus
 
-I'm passionate about developing **secure/efficient AI systems** and **adversarial security tools** that push the boundaries of what's possible. My expertise spans **Secure and Trustworthy AI**, **Adversarial Machine Learning**, and **Edge/Embedded AI** deployment.
+I'm passionate about developing **secure, efficient, and aligned AI systems** that are both powerful and safe for real-world deployment. My work focuses on creating **adversarial security tools** and **trustworthy AI solutions** that ensure AI systems behave reliably and efficiently. My expertise spans **Secure and Trustworthy AI**, **AI Safety**, **Adversarial Machine Learning**, and **Edge/Embedded AI** deployment.
 
 My research lives at the **exciting intersection** of:
-- 🛡️ **Secure Machine Learning**: Adversarial ML, Robustness Evaluation, Physical Adversarial Attacks, Red-Teaming of AI Systems.
-- 🤖 **Efficient Machine Learning**: Hardware-Aware Neural Architecture Search (NAS), Graph Neural Networks, Edge AI, Energy-Efficiency.
-- 🎯 **Hardware-Software Co-Design**: Multi-objective optimization, resource-constrained intelligent systems, Sensor-ML co-design for security.
+- 🛡️ **Secure Machine Learning**: Adversarial ML, Robustness evaluation, Physical adversarial attacks, Red-teaming of AI systems.
+- 🤖 **Efficient Machine Learning**: Hardware-aware Neural Architecture Search (NAS), Graph neural networks, Edge AI, Energy-efficiency.
+- 🎯 **Hardware-Software Co-Design**: Multi-objective optimization, Sensor-ML co-design for security, Resource-constrained intelligent systems.
 
 ---
 

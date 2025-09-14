@@ -164,19 +164,6 @@ preview = {magnas_cases.png}
   }
 
 
-@article{hijacking_preprint_2024,
-  title={Model for Peanuts: Hijacking ML Models without Training Access is Possible},
-  author={Mahmoud Ghorbel and Halima Bouzidi and Ioan Marius Bilasco and Ihsen Alouani},
-  abstract={The massive deployment of Machine Learning (ML) models has been accompanied by the emergence of several attacks that threaten their trustworthiness and raise ethical and societal concerns such as invasion of privacy, discrimination risks, and lack of accountability. Model hijacking is one of these attacks, where the adversary aims to hijack a victim model to execute a different task than its original one. Model hijacking can cause accountability and security risks since a hijacked model owner can be framed for having their model offering illegal or unethical services. Prior state-of-the-art works consider model hijacking as a training time attack, whereby an adversary requires access to the ML model training to execute their attack. In this paper, we consider a stronger threat model where the attacker has no access to the training phase of the victim model. Our intuition is that ML models, typically over-parameterized, might (unintentionally) learn more than the intended task for they are trained. We propose a simple approach for model hijacking at inference time named SnatchML to classify unknown input samples using distance measures in the latent space of the victim model to previously known samples associated with the hijacking task classes. SnatchML empirically shows that benign pre-trained models can execute tasks that are semantically related to the initial task. Surprisingly, this can be true even for hijacking tasks unrelated to the original task. We also explore different methods to mitigate this risk. We first propose a novel approach we call meta-unlearning, designed to help the model unlearn a potentially malicious task while training on the original task dataset. We also provide insights on over-parameterization as one possible inherent factor that makes model hijacking easier, and we accordingly propose a compression-based countermeasure against this attack.},
-  code={https://github.com/HalimaBouzidi/SnatchML},
-  pdf={https://arxiv.org/pdf/2406.01708},
-  journal={IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)},
-  year={2025},
-  volume={abs/2406.01708},
-  url={https://api.semanticscholar.org/CorpusID:270226742},
-  preview = {snatch.png}
-}
-
 @inproceedings{jenn:hal-04584735,
   TITLE = {{An Evaluation Bench for the Exploration of Machine Learning Deployment Solutions on Embedded Platforms}},
   AUTHOR = {Jenn, Eric and Thiant, Floris and Allouche, Theo and Bouzidi, Halima and Conejo-Laguna, Ramon and Hlimi, Omar and Louis-Stanislas, Cyril and Marabotto, Christophe and Niar, Smail and Tembo Mouafo, Serge Romaric and Thierion, Philippe},
@@ -242,6 +229,19 @@ preview = {magnas_cases.png}
   url = 	 {https://proceedings.mlr.press/v222/ghebriout24a.html},
   abstract = 	 {The recent surge of interest surrounding Multimodal Neural Networks (MM-NN) is attributed to their ability to effectively process and integrate multiscale information from diverse data sources. MM-NNs extract and fuse features from multiple modalities using adequate unimodal backbones and specific fusion networks. Although this helps strengthen the multimodal information representation, designing such networks is labor-intensive. It requires tuning the architectural parameters of the unimodal backbones, choosing the fusing point, and selecting the operations for fusion. Furthermore, multimodality AI is emerging as a cutting-edge option in Internet of Things (IoT) systems where inference latency and energy consumption are critical metrics in addition to accuracy. In this paper, we propose Harmonic-NAS, a framework for the joint optimization of unimodal backbones and multimodal fusion networks with hardware awareness on resource-constrained devices. Harmonic-NAS involves a two-tier optimization approach for the unimodal backbone architectures and fusion strategy and operators. By incorporating the hardware dimension into the optimization, evaluation results on various devices and multimodal datasets have demonstrated the superiority of Harmonic-NAS over state-of-the-art approaches achieving up to 10.9% accuracy improvement, 1.91x latency reduction, and 2.14x energy efficiency gain.},
   preview = {harmonic_acml.png}
+}
+
+@article{hijacking_preprint_2024,
+  title={SnatchML: Hijacking ML Models without Training Access},
+  author={Mahmoud Ghorbel and Halima Bouzidi and Ioan Marius Bilasco and Ihsen Alouani},
+  abstract={The massive deployment of Machine Learning (ML) models has been accompanied by the emergence of several attacks that threaten their trustworthiness and raise ethical and societal concerns such as invasion of privacy, discrimination risks, and lack of accountability. Model hijacking is one of these attacks, where the adversary aims to hijack a victim model to execute a different task than its original one. Model hijacking can cause accountability and security risks since a hijacked model owner can be framed for having their model offering illegal or unethical services. Prior state-of-the-art works consider model hijacking as a training time attack, whereby an adversary requires access to the ML model training to execute their attack. In this paper, we consider a stronger threat model where the attacker has no access to the training phase of the victim model. Our intuition is that ML models, typically over-parameterized, might (unintentionally) learn more than the intended task for they are trained. We propose a simple approach for model hijacking at inference time named SnatchML to classify unknown input samples using distance measures in the latent space of the victim model to previously known samples associated with the hijacking task classes. SnatchML empirically shows that benign pre-trained models can execute tasks that are semantically related to the initial task. Surprisingly, this can be true even for hijacking tasks unrelated to the original task. We also explore different methods to mitigate this risk. We first propose a novel approach we call meta-unlearning, designed to help the model unlearn a potentially malicious task while training on the original task dataset. We also provide insights on over-parameterization as one possible inherent factor that makes model hijacking easier, and we accordingly propose a compression-based countermeasure against this attack.},
+  code={https://github.com/HalimaBouzidi/SnatchML},
+  pdf={https://arxiv.org/pdf/2406.01708},
+  journal={IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)},
+  year={2025},
+  volume={abs/2406.01708},
+  url={https://api.semanticscholar.org/CorpusID:270226742},
+  preview = {snatch.png}
 }
 
 @article{llm4cve_dsd_2025,
