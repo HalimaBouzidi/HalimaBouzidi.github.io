@@ -243,3 +243,29 @@ preview = {magnas_cases.png}
   abstract = 	 {The recent surge of interest surrounding Multimodal Neural Networks (MM-NN) is attributed to their ability to effectively process and integrate multiscale information from diverse data sources. MM-NNs extract and fuse features from multiple modalities using adequate unimodal backbones and specific fusion networks. Although this helps strengthen the multimodal information representation, designing such networks is labor-intensive. It requires tuning the architectural parameters of the unimodal backbones, choosing the fusing point, and selecting the operations for fusion. Furthermore, multimodality AI is emerging as a cutting-edge option in Internet of Things (IoT) systems where inference latency and energy consumption are critical metrics in addition to accuracy. In this paper, we propose Harmonic-NAS, a framework for the joint optimization of unimodal backbones and multimodal fusion networks with hardware awareness on resource-constrained devices. Harmonic-NAS involves a two-tier optimization approach for the unimodal backbone architectures and fusion strategy and operators. By incorporating the hardware dimension into the optimization, evaluation results on various devices and multimodal datasets have demonstrated the superiority of Harmonic-NAS over state-of-the-art approaches achieving up to 10.9% accuracy improvement, 1.91x latency reduction, and 2.14x energy efficiency gain.},
   preview = {harmonic_acml.png}
 }
+
+@article{llm4cve_dsd_2025,
+  title={LLM4CVE: Enabling Iterative Automated Vulnerability Repair with Large Language Models}, 
+  abstract={Software vulnerabilities continue to be ubiquitous, even in the era of AI-powered code assistants, advanced static analysis tools, and the adoption of extensive testing frameworks. It has become apparent that we must not simply prevent these bugs, but also eliminate them in a quick, efficient manner. Yet, human code intervention is slow, costly, and can often lead to further security vulnerabilities, especially in legacy codebases. The advent of highly advanced Large Language Models (LLM) has opened up the possibility for many software defects to be patched automatically. We propose LLM4CVE an LLM-based iterative pipeline that robustly fixes vulnerable functions in real-world code with high accuracy. We examine our pipeline with State-of-the-Art LLMs, such as GPT-3.5, GPT-4o, Llama 38B, and Llama 3 70B. We achieve a human-verified quality score of 8.51/10 and an increase in groundtruth code similarity of 20% with Llama 3 70B. To promote further research in the area of LLM-based vulnerability repair, we publish our testing apparatus, fine-tuned weights, and experimental data on our website},
+  code={https://sites.google.com/view/llm4cve},
+  pdf={https://arxiv.org/pdf/2501.03446},
+  author={Mohamad Fakih and Rahul Dharmaji and Halima Bouzidi and Gustavo Quiros Araya and Oluwatosin Ogundare and Mohammad Abdullah Al Faruque},
+  journal={IEEE Euromicro Conference on Digital System Design (DSD)},
+  year={2025},
+  volume={abs/2501.03446},
+  url={https://api.semanticscholar.org/CorpusID:275342720},
+  preview = {llm4cve.png}
+}
+
+@inproceedings{veil_neurips_2025,
+  title={See No Evil: Adversarial Attacks Against Linguistic-Visual Association in Referring Multi-Object Tracking Systems},
+  abstract={Language-vision understanding has driven the development of advanced perception systems, most notably the emerging paradigm of Referring Multi-Object Tracking (RMOT). By leveraging natural-language queries, RMOT systems can selectively track objects that satisfy a given semantic description, guided through Transformer-based spatial-temporal reasoning modules. End-to-End (E2E) RMOT models further unify feature extraction, temporal memory, and spatial reasoning within a Transformer backbone, enabling long-range spatial-temporal modeling over fused textual-visual representations. Despite these advances, the reliability and robustness of RMOT remain underexplored. In this paper, we examine the security implications of RMOT systems from a design-logic perspective, identifying adversarial vulnerabilities that compromise both the linguistic-visual referring and track-object matching components. Additionally, we uncover a novel vulnerability in advanced RMOT models employing FIFO-based memory, whereby targeted and consistent attacks on their spatial-temporal reasoning introduce errors that persist within the history buffer over multiple subsequent frames. We present VEIL, a novel adversarial framework designed to disrupt the unified referring-matching mechanisms of RMOT models. We show that carefully crafted digital and physical perturbations can corrupt the tracking logic reliability, inducing track ID switches and terminations. We conduct comprehensive evaluations using the Refer-KITTI dataset to validate the effectiveness of VEIL and demonstrate the urgent need for security-aware RMOT designs for critical large-scale applications.},
+  code={https://github.com/HalimaBouzidi/veil},
+  pdf={https://arxiv.org/pdf/2509.02028},
+  author={Halima Bouzidi and Haoyu Liu and Mohammad Al Faruque},
+  journal={ArXiv},
+  year={2025},
+  volume={abs/2509.02028},
+  url={https://api.semanticscholar.org/CorpusID:281081508},
+  preview = {veil.png}
+}

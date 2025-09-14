@@ -2,8 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: hbouzidi@uci.edu
-
+subtitle: hbou---
 profile:
   align: right
   image: prof_pic.jpg
@@ -23,17 +22,36 @@ social: false  # includes social icons at the bottom of the page
 latest_posts: false  # includes a list of the newest posts
 ---
 
- [GitHub](https://github.com/HalimaBouzidi) &nbsp;&nbsp;&nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?user=sI0ity4AAAAJ&hl=en) &nbsp;&nbsp;&nbsp;&nbsp; [X](https://twitter.com/HalimaBouzidi1) &nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/halimabouzidi/)
- 
-<!-- &nbsp;&nbsp;&nbsp;&nbsp; [CV](/assets/pdf/Halima_Bouzidi_CV.pdf) -->
+ [GitHub](https://github.com/HalimaBouzidi) &nbsp;&nbsp;&nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?user=sI0ity4AAAAJ&hl=en) &nbsp;&nbsp;&nbsp;&nbsp; [X](https://twitter.com/HalimaBouzidi1) &nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/halimabouzidi/) &nbsp;&nbsp;&nbsp;&nbsp; [CV](/assets/pdf/Halima_Bouzidi_Resume.pdf)
 
 <!-- **Some text, maybe for later** -->
 
-Hi! My name is Halima Bouzidi ^^
+## Hi! I'm Halima Bouzidi 👋
 
-I am a postdoctoral scholar in the [Embedded & Cyber-Physical Systems (AICPS) Lab](https://aicps.eng.uci.edu/) at the [University of California, Irvine (UCI)](https://uci.edu/), where I have the privilege of being advised by [Prof. Mohammad Al Faruque](https://aicps.eng.uci.edu/people-2/). Prior to this, I was a Research Fellow at the [Queen's University of Belfast, UK](https://www.qub.ac.uk/), where I had the opportunity to work with [Dr. Ihsen Alouani](https://sites.google.com/view/ihsen-alouani) on Security and Privacy aspects of Machine Learning.
+🔬 **Postdoctoral Scholar** at the [Embedded & Cyber-Physical Systems (AICPS) Lab](https://aicps.eng.uci.edu/) | [University of California, Irvine (UCI)](https://uci.edu/)  
+🎯 **Co-advised by**: [Prof. Mohammad Al Faruque](https://aicps.eng.uci.edu/people-2/) (Primary) & Prof. Qi Alfred Chen (Co-PI)
 
-My current research stands at the intersection of Multi-objective optimization, Machine Learning (ML), Hardware architectures, Security, and Privacy with an emphasis on resource-constrained intelligent systems. To enhance the performance, efficiency, reliability, and robustness of intelligent applications and devices, I develop methods that seamlessly integrate ML, optimization, security, and privacy analysis across both software and hardware levels.
+🌟 **Previously**: Research Fellow in Trustworthy AI at [Queen's University of Belfast, UK](https://www.qub.ac.uk/) with [Dr. Ihsen Alouani](https://sites.google.com/view/ihsen-alouani) (Jan 2024 - Jul 2024)
+
+---
+
+### 🚀 Research Focus
+
+**Machine Learning and Security researcher** with 5+ years of experience developing efficient AI systems and adversarial security tools. I specialize in **Secure and Trustworthy AI**, **Adversarial Machine Learning**, and **Edge/Embedded AI** deployment.
+
+My research lives at the **exciting intersection** of:
+- 🛡️ **Secure Machine Learning**: Adversarial ML, Robustness Evaluation, Physical Adversarial Attacks (Acoustic, Optical, Electromagnetic), Red-Teaming of AI Systems, AI for Security
+- 🤖 **Efficient Machine Learning**: Hardware-Aware Neural Architecture Search (NAS), Graph Neural Networks, Edge AI, Energy-Efficiency, Model Compression
+- 🎯 **Autonomous Systems Security**: Security of Cyber-Physical Systems, Privacy Attacks (Membership Inference, Model Hijacking)
+- � **Hardware-Software Co-Design**: Multi-objective optimization, resource-constrained intelligent systems
+
+� **Current Research**: Leading the **AICPS Security Group** investigating emerging threats to autonomous systems, including sensor spoofing and attacks on machine learning models such as LLMs and vision-language-action (VLAMs) models.
+
+💡 **DARPA Collaboration**: Contributing to the DARPA FIRE program (UCI + ASU + HII), developing a cyber-physical exploits knowledge base (SACI-DB) with 90+ vulnerabilities to accelerate red-teaming.
+
+---
+
+### 🎓 Academic Journey
 
 I received my PhD degree in Computer Engineering in January 2024 from the [Polytechnic University of Hauts-de-France (UPHF)](https://www.uphf.fr/en). I was fortunate to be advised by [Prof. Smail Niar](https://www.uphf.fr/lamih/membres/niar_smail), [Prof. El-Ghazali Talbi](https://www.cristal.univ-lille.fr/~talbi/indexf043.html?n=Main.Biography), and [Dr. Hamza Ouarnoughi](https://www.uphf.fr/lamih/membres/ouarnoughi_hamza).
 
