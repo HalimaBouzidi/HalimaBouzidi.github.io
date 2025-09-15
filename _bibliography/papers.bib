@@ -244,6 +244,20 @@ preview = {magnas_cases.png}
   preview = {veil.png}
 }
 
+@article{mouse_acsac_2025,
+  title={Invisible Ears at Your Fingertips: Acoustic Eavesdropping via Mouse Sensors}, 
+  abstract={Modern optical mouse sensors, with their advanced precision and high responsiveness, possess an often overlooked vulnerability: they can be exploited for side-channel attacks. This paper introduces Mic-E-Mouse, the first-ever side-channel attack that targets high-performance optical mouse sensors to covertly eavesdrop on users. We demonstrate that audio signals can induce subtle surface vibrations detectable by a mouse's optical sensor. Remarkably, user-space software on popular operating systems can collect and broadcast this sensitive side channel, granting attackers access to raw mouse data without requiring direct system-level permissions. Initially, the vibration signals extracted from mouse data are of poor quality due to non-uniform sampling, a non-linear frequency response, and significant quantization. To overcome these limitations, Mic-E-Mouse employs a sophisticated end-to-end data filtering pipeline that combines Wiener filtering, resampling corrections, and an innovative encoder-only spectrogram neural filtering technique. We evaluate the attack's efficacy across diverse conditions, including speaking volume, mouse polling rate and DPI, surface materials, speaker languages, and environmental noise. In controlled environments, Mic-E-Mouse improves the signal-to-noise ratio (SNR) by up to +19 dB for speech reconstruction. Furthermore, our results demonstrate a speech recognition accuracy of roughly 42\% to 61\% on the AudioMNIST and VCTK datasets. },
+  code={https://sites.google.com/view/mic-e-mouse},
+  pdf={https://sites.google.com/view/mic-e-mouse},
+  author={Mohamad Habib Fakih and Rahul Dharmaji and Youssef Mahmoud and Halima Bouzidi and Mohammad Abdullah Al Faruque},
+  journal={The Annual Computer Security Applications Conference (ACSAC)},
+  year={2025},
+  volume={https://sites.google.com/view/mic-e-mouse},
+  url={https://sites.google.com/view/mic-e-mouse},
+  preview = {mic-e-mouse}
+}
+
+
 @article{llm4cve_dsd_2025,
   title={LLM4CVE: Enabling Iterative Automated Vulnerability Repair with Large Language Models}, 
   abstract={Software vulnerabilities continue to be ubiquitous, even in the era of AI-powered code assistants, advanced static analysis tools, and the adoption of extensive testing frameworks. It has become apparent that we must not simply prevent these bugs, but also eliminate them in a quick, efficient manner. Yet, human code intervention is slow, costly, and can often lead to further security vulnerabilities, especially in legacy codebases. The advent of highly advanced Large Language Models (LLM) has opened up the possibility for many software defects to be patched automatically. We propose LLM4CVE an LLM-based iterative pipeline that robustly fixes vulnerable functions in real-world code with high accuracy. We examine our pipeline with State-of-the-Art LLMs, such as GPT-3.5, GPT-4o, Llama 38B, and Llama 3 70B. We achieve a human-verified quality score of 8.51/10 and an increase in groundtruth code similarity of 20% with Llama 3 70B. To promote further research in the area of LLM-based vulnerability repair, we publish our testing apparatus, fine-tuned weights, and experimental data on our website},
@@ -257,7 +271,7 @@ preview = {magnas_cases.png}
   preview = {llm4cve.png}
 }
 
-@article{hijacking_preprint_2024,
+@article{hijacking_preprint_2025,
   title={SnatchML: Hijacking ML Models without Training Access},
   author={Mahmoud Ghorbel and Halima Bouzidi and Ioan Marius Bilasco and Ihsen Alouani},
   abstract={The massive deployment of Machine Learning (ML) models has been accompanied by the emergence of several attacks that threaten their trustworthiness and raise ethical and societal concerns such as invasion of privacy, discrimination risks, and lack of accountability. Model hijacking is one of these attacks, where the adversary aims to hijack a victim model to execute a different task than its original one. Model hijacking can cause accountability and security risks since a hijacked model owner can be framed for having their model offering illegal or unethical services. Prior state-of-the-art works consider model hijacking as a training time attack, whereby an adversary requires access to the ML model training to execute their attack. In this paper, we consider a stronger threat model where the attacker has no access to the training phase of the victim model. Our intuition is that ML models, typically over-parameterized, might (unintentionally) learn more than the intended task for they are trained. We propose a simple approach for model hijacking at inference time named SnatchML to classify unknown input samples using distance measures in the latent space of the victim model to previously known samples associated with the hijacking task classes. SnatchML empirically shows that benign pre-trained models can execute tasks that are semantically related to the initial task. Surprisingly, this can be true even for hijacking tasks unrelated to the original task. We also explore different methods to mitigate this risk. We first propose a novel approach we call meta-unlearning, designed to help the model unlearn a potentially malicious task while training on the original task dataset. We also provide insights on over-parameterization as one possible inherent factor that makes model hijacking easier, and we accordingly propose a compression-based countermeasure against this attack.},
