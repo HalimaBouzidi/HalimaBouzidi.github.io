@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-✅🔐 Our paper "FlyTrap: Physical Distance-Pulling Attack Towards Camera-based Autonomous Target Tracking Systems" has been accepted to the Network and Distributed System Security Symposium (NDSS 2025).
+✅🔐 Our paper "FlyTrap: Physical Distance-Pulling Attack Towards Camera-based Autonomous Target Tracking Systems" has been accepted to the Network and Distributed System Security Symposium (NDSS 2026).

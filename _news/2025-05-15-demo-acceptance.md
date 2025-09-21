@@ -7,4 +7,4 @@ related_posts: false
 ---
 
 ✅🔒 Our demo paper "Demo: FlyTrap: Physical Distance-Pulling Attack Towards Camera-based Autonomous Target Tracking Systems" has been accepted to the 3rd USENIX Symposium on Vehicle Security and Privacy (VehicleSec
-’25 Demos, Posters, and Tutorials). 2025
+’25 Demos, Posters, and Tutorials 2025) [Demo](https://www.usenix.org/system/files/vehiclesec25_demo10-xie-rev.pdf).

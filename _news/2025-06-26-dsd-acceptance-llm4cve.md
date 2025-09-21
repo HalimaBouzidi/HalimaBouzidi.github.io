@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-✅🛡️ Our paper "LLM4CVE: Enabling Iterative Automated Vulnerability Repair with Large Language Models" has been accepted to the IEEE Euromicro Conference on Digital System Design (DSD 2025).
+✅🛡️ Our paper "LLM4CVE: Enabling Iterative Automated Vulnerability Repair with Large Language Models" has been accepted to the IEEE Euromicro Conference on Digital System Design (DSD 2025) [ArXiv](https://arxiv.org/abs/2501.03446).

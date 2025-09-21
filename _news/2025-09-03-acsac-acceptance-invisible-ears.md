@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-✅👂 Our paper “Invisible Ears at Your Fingertips: Acoustic Eavesdropping via Mouse Sensors” has been accepted to the Annual Computer Security Applications Conference (ACSAC 2025).
+✅👂 Our paper “Invisible Ears at Your Fingertips: Acoustic Eavesdropping via Mouse Sensors” has been accepted to the Annual Computer Security Applications Conference (ACSAC 2025) [ArXiv](https://arxiv.org/abs/2509.13581).
