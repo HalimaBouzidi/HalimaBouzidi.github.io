@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 🔧 Joining DATE 2025 Program Committee
-date: 2024-09-07 12:00:00+0000
+title: 🔧 WiML workshop 
+date: 2025-09-22 12:00:00+0000
 inline: true
 related_posts: false
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 🔧 Joining DATE 2025 Program Committee
-date: 2024-09-07 12:00:00+0000
+title: 🔧 Joining ICLR 2026 Program Committee
+date: 2025-09-23 12:00:00+0000
 inline: true
 related_posts: false
 ---
