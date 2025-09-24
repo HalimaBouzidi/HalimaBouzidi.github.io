@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-✅🔗 Our abstract on the security of End-to-End Multi-Object Tracking Models has been accepted to Women in Machine Learning (WiML) @ NeurIPS 2025. Looking forward to connecting in San Diego!
+✅🔗 Our abstract on the security of End-to-End Multi-Object Tracking Models has been accepted to the Women in Machine Learning (WiML) workshop @ NeurIPS 2025. Looking forward to connecting in San Diego!
