@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 🔧 The Register Article
-date: 2025-10-10 12:00:00+0000
+date: 2025-10-08 12:00:00+0000
 inline: true
 related_posts: false
 ---
