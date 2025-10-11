@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-✈️ Pleased to receive the WiML 2025 travel funding to present my research at the Women in Machine Learning (WiML) workshop at NeurIPS!
+✈️ Pleased to receive the WiML 2025 travel funding to present my research at WiML workshop @ NeurIPS!
