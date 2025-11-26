@@ -27,7 +27,7 @@ latest_posts: true  # includes a list of the newest posts
 
 ## Hi! I'm Halima Bouzidi 👋
 
-<mark style="background-color: #ffeb3b; padding: 5px 10px; font-weight: bold;">🎯 I’ll be on the job market in 2026! Feel free to reach out about R&D roles in AI security and safety </mark>
+<mark style="background-color: #ffeb3b; padding: 5px 10px; font-weight: bold;">🎯 I’m be on the job market in 2026! </mark>
 
 🔬 **Postdoctoral Scholar** at the [Embedded & Cyber-Physical Systems (AICPS) Lab at UCI ](https://aicps.eng.uci.edu/) 
 
