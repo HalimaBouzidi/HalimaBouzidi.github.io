@@ -27,6 +27,10 @@ latest_posts: true  # includes a list of the newest posts
 
 ## Hi! I'm Halima Bouzidi 👋
 
+<div class="alert alert-success" role="alert" markdown="1">
+🎯 I'm on the job market! Looking for research and development starting 2026. 
+</div>
+
 🔬 **Postdoctoral Scholar** at the [Embedded & Cyber-Physical Systems (AICPS) Lab at UCI ](https://aicps.eng.uci.edu/) 
 
 🌟 **Previously**: Research Fellow in Trustworthy AI at [Queen's University of Belfast, UK](https://www.qub.ac.uk/) 
