@@ -25,7 +25,7 @@ latest_posts: true  # includes a list of the newest posts
 
 <!-- **Some text, maybe for later** -->
 
-## Hi! I'm Halima Bouzidi 👋
+## Hi! I'm Halima 👋
 
 <mark style="background-color: #ffeb3b; padding: 5px 10px; font-weight: bold;">🎯 I’m on the job market for R&D roles in 2026! </mark>
 
@@ -37,11 +37,11 @@ latest_posts: true  # includes a list of the newest posts
 
 ### 🚀 Research Focus
 
-I'm passionate about developing **secure, efficient, and aligned AI systems** that are both powerful and safe for real-world deployment. My work focuses on creating **adversarial security tools** and **trustworthy AI solutions** that ensure AI systems behave reliably and efficiently. My expertise spans **Secure and Trustworthy AI**, **AI Safety**, **Adversarial Machine Learning**, and **Edge AI** deployment.
+I'm a Machine Learning and Security researcher focused on developing **AI systems that are secure, efficient, and aligned** with real-world demands. I work on **adversarial security tools** and **trustworthy AI methods** for **auditing** and strengthening the **robustness of ML systems**, ensuring they behave safely and reliably in practical deployment. My expertise spans **Secure and Trustworthy AI**, **Adversarial Machine Learning**, and **Efficient AI** deployment.
 
 My research lives at the **exciting intersection** of:
-- 🛡️ **Secure Machine Learning**: Adversarial ML, Robustness evaluation, Physical adversarial attacks, Red-teaming of AI systems.
-- 🤖 **Efficient Machine Learning**: Hardware-aware Neural Architecture Search (NAS), Graph neural networks, Edge AI, Energy-efficiency.
-- 🎯 **Hardware-Software Co-Design**: Multi-objective optimization, Sensor-ML co-design for security, Resource-constrained intelligent systems.
+- 🛡️ **Secure Machine Learning**: Adversarial ML, Robustness Evaluation, Physical Adversarial Attacks, Red-teaming of ML Systems.
+- 🤖 **Efficient Machine Learning**: Hardware-aware Neural Architecture Search (NAS), Deep Neural Networks, Edge AI, Energy-efficiency.
+- 🎯 **Hardware-Software Co-Design**: Sensor-ML co-design for Security, Hardware-Software Co-design for Efficiency, Multi-objective Optimization, Resource-constrained Intelligent Systems.
 
 ---
