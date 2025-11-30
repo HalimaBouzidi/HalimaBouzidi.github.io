@@ -17,29 +17,14 @@ During my PhD (2021-2023), I served as a graduate Teaching Assistant (TA) for th
 - **Introduction to Computer Architectures and Operating Systems** (INSA Hauts-de-France): Fall 2021, 2022, 2023
 - **Introduction to Algorithm and Programming** (INSA Hauts-de-France): Fall 2022
 
----
-
-<!-- ### Student Mentees/Collaborators
-
-I am extremely fortunate to have mentored and worked with brilliant students. Please feel free to reach out if you are interested in collaborating!
-
-#### Undergrad, Master, and Grad Students
-
-- [Mohamed Imed Eddine Ghebriout](https://dz.linkedin.com/in/mohamed-imed-eddine-ghebriout-a4b9601b1)
-- [Farouk Abdallah](https://www.linkedin.com/in/farouk-abdallah/)
-- [Taha Yassine Abidi](https://www.linkedin.com/in/tahayacinabidi/)
-- [Selsabil Rouibi](https://www.linkedin.com/in/selsabil-rouibi/)
-- [Kaouthar Essaheli](https://www.linkedin.com/in/kaouthar-essaheli-78667921a/)
-- [Ildi Alla](https://www.linkedin.com/in/ildi-alla-7268b2184/)
-- [Selina Cheggour](https://fr.linkedin.com/in/selina-cheggour)
- -->
-
----
 
 ### Academic Services
 
 #### Program Committee
 
+- 2026
+	- ACM Conference on Computer and Communications Security (CCS) 
+	- AAAI Conference on Artificial Intelligence (AAAI)
 - 2025
 	- Conference on Neural Information Processing Systems (NeurIPS)
 	- International Conference on Machine Learning (ICML)
@@ -104,6 +89,9 @@ I am extremely fortunate to have mentored and worked with brilliant students. Pl
 
 #### Artifact Evaluation Committee
 
+- 2026
+	- Network and Distributed System Security Symposium (NDSS)
+    - USENIX Security Symposium (USENIX Security)
 - 2025
 	- Network and Distributed System Security Symposium (NDSS)
     - USENIX Security Symposium (USENIX Security)
@@ -111,6 +99,7 @@ I am extremely fortunate to have mentored and worked with brilliant students. Pl
 #### Organizing Committee
 
 - Volunteer Chair — Cyber-Physical Systems and Internet-of-Things Week (CPS-IoT Week, 2025)
+- Volunteer — Women in Machine Learning Research (WiML@NeurIPS, 2025)
 
 ---
 
