@@ -40,8 +40,8 @@ latest_posts: true  # includes a list of the newest posts
 I'm a Machine Learning and Security researcher focused on developing **AI systems that are secure, efficient, and aligned** with real-world demands. I work on **adversarial security tools** and **trustworthy AI methods** for **auditing** and **strengthening the robustness of ML systems**, ensuring they behave safely and reliably in practical deployment. My expertise spans **Secure and Trustworthy AI**, **Adversarial Machine Learning**, and **Efficient AI** deployment.
 
 My research lives at the **exciting intersection** of:
-- 🛡️ **Secure Machine Learning**: Adversarial ML, Robustness Evaluation, Physical Adversarial Attacks, Red-teaming of ML Systems.
+- 🛡️ **Secure Machine Learning**: Adversarial Attacks and Defenses, Robustness Evaluation, Red-teaming of ML Systems, AI for Security.
 - 🤖 **Efficient Machine Learning**: Hardware-aware Neural Architecture Search (NAS), Deep Neural Networks, Edge AI, Energy-efficiency.
-- 🎯 **Hardware-Software Co-Design**: Sensor-ML co-design for Security, Hardware-Software Co-design for Efficiency, Multi-objective Optimization.
+- 🎯 **Hardware-Software Co-Design**: Sensor-ML Co-design for Security, Hardware-Software Co-design for Efficiency, Multi-objective Optimization.
 
 ---
